@@ -1,8 +1,13 @@
 from flask import Flask, request, jsonify, render_template
+from werkzeug.middleware.proxy_fix import ProxyFix
 from rag import generate_answer
 
 # --- Main Application Setup ---
 app = Flask(__name__)
+
+# Trust the X-Forwarded-Proto header from the reverse proxy (nginx/Caddy/etc.)
+# This ensures Flask knows the request came in over HTTPS, not plain HTTP.
+app.wsgi_app = ProxyFix(app.wsgi_app, x_proto=1, x_host=1)
 
 # --- Routes ---
 
