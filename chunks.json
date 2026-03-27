@@ -1,0 +1,1650 @@
+[
+  {
+    "content": "CAMION ELECTRIQUE : IL EST TEMPS D'EMBRAYER SUR LA LOGISTIQUE URBAINE",
+    "type": "text",
+    "section": "Page de couverture",
+    "subsection": "",
+    "topic": "Titre du rapport",
+    "page": 1
+  },
+  {
+    "content": "Pôle Mobilité\nNicolas Meunier\nChef de Projet\nJuliette Sorret\nConsultante",
+    "type": "list",
+    "section": "Page de couverture",
+    "subsection": "",
+    "topic": "Auteurs",
+    "page": 1
+  },
+  {
+    "content": "[\"David DIAS (Delanchy)\", \"Remi DRIAT (Enedis)\", \"Emilie FODOR (Métropole du Grand Lyon)\", \"Zakaria GOZMIR (STEF)\", \"Marc LEJEUNE (Renault Trucks)\", \"Mona MAHMOUD (Enedis)\", \"Pierre-Louis RAGON (International Council on Clean Transportation)\", \"Yannig RENAULT (Delanchy)\", \"Frédéric SEYVE (STEF)\", \"Keroum SLIMANI (Métropole du Grand Lyon)\", \"Diane STRAUSS (Transport & Environment)\"]",
+    "type": "list",
+    "section": "Remerciements",
+    "subsection": "Membres de l'équipe projet",
+    "topic": "Project team members",
+    "page": 2
+  },
+  {
+    "content": "[\"Pascal AUBARET (XPO Logistic)\", \"Anthony BURON (Volta trucks)\", \"Jekaterina BOENING (Transport & Environment Germany)\", \"Sébastien DORTIGNAC (STEF)\", \"Cécile GOUBET (Avere)\", \"Steffen LINK (Fraunhofer ISI)\", \"Lucien MATHIEU (Transport & Environment)\", \"Armelle PERRIER (STEF)\", \"Matthieu RENAUDIN (EDF)\", \"Jérôme THOMAS (XPO Logistics)\", \"Sophie TRICAUD (Forsee Power)\", \"Joseph VIOUGEAS (XPO Logistics)\", \"Felix WILMET (Izivia)\", \"La Fondation Européenne pour le Climat\"]",
+    "type": "list",
+    "section": "Remerciements",
+    "subsection": "Carbone 4 souhaite également remercier les acteurs suivants pour leur aide lors de la réalisation de l'étude",
+    "topic": "Additional contributors",
+    "page": 2
+  },
+  {
+    "content": "I. Introduction (Page 5)",
+    "type": "list",
+    "section": "Introduction",
+    "subsection": "",
+    "topic": "Introduction",
+    "page": 3
+  },
+  {
+    "content": "La décarbonation du transport routier est essentielle à l'atteinte des objectifs climatiques (Page 5)",
+    "type": "list",
+    "section": "Introduction",
+    "subsection": "La décarbonation du transport routier est essentielle à l'atteinte des objectifs climatiques",
+    "topic": "Décarbonation transport routier",
+    "page": 3
+  },
+  {
+    "content": "Quelles motorisations alternatives pour décarboner le transport de marchandise ? (Page 6)",
+    "type": "list",
+    "section": "Introduction",
+    "subsection": "Quelles motorisations alternatives pour décarboner le transport de marchandise ?",
+    "topic": "Motorisations alternatives",
+    "page": 3
+  },
+  {
+    "content": "II. Méthodologie de l'étude (Page 9)",
+    "type": "list",
+    "section": "Méthodologie de l'étude",
+    "subsection": "",
+    "topic": "Méthodologie",
+    "page": 3
+  },
+  {
+    "content": "Présentation de la démarche et de l'équipe projet (Page 9)",
+    "type": "list",
+    "section": "Méthodologie de l'étude",
+    "subsection": "Présentation de la démarche et de l'équipe projet",
+    "topic": "Démarche et équipe projet",
+    "page": 3
+  },
+  {
+    "content": "Présentation du cas d'étude et représentativité (Page 9)",
+    "type": "list",
+    "section": "Méthodologie de l'étude",
+    "subsection": "Présentation du cas d'étude et représentativité",
+    "topic": "Cas d'étude",
+    "page": 3
+  },
+  {
+    "content": "III. Aspects techniques et opérationnels (Page 11)",
+    "type": "list",
+    "section": "Aspects techniques et opérationnels",
+    "subsection": "",
+    "topic": "Aspects techniques",
+    "page": 3
+  },
+  {
+    "content": "Des contraintes d'exploitation liées principalement à l'autonomie limitée du camion électrique (Page 11)",
+    "type": "list",
+    "section": "Aspects techniques et opérationnels",
+    "subsection": "Des contraintes d'exploitation liées principalement à l'autonomie limitée du camion électrique",
+    "topic": "Contraintes camion électrique",
+    "page": 3
+  },
+  {
+    "content": "Les contraintes d'exploitation peuvent être levées dans les prochaines années (Page 13)",
+    "type": "list",
+    "section": "Aspects techniques et opérationnels",
+    "subsection": "Les contraintes d'exploitation peuvent être levées dans les prochaines années",
+    "topic": "Levée contraintes exploitation",
+    "page": 3
+  },
+  {
+    "content": "Recommandations (Page 14)",
+    "type": "list",
+    "section": "Aspects techniques et opérationnels",
+    "subsection": "Recommandations",
+    "topic": "Recommandations",
+    "page": 3
+  },
+  {
+    "content": "IV. Aspects financiers (Page 16)",
+    "type": "list",
+    "section": "Aspects financiers",
+    "subsection": "",
+    "topic": "Aspects financiers",
+    "page": 3
+  },
+  {
+    "content": "Sans aides financières, un surcoût sur le TCO lié à un coût d'acquisition plus élevé mais qui devrait diminuer (Page 16)",
+    "type": "list",
+    "section": "Aspects financiers",
+    "subsection": "Sans aides financières, un surcoût sur le TCO lié à un coût d'acquisition plus élevé mais qui devrait diminuer",
+    "topic": "Surcoût TCO",
+    "page": 3
+  },
+  {
+    "content": "Des aides financières qui permettent de donner un avantage économique mais peu prises en compte (Page 18)",
+    "type": "list",
+    "section": "Aspects financiers",
+    "subsection": "Des aides financières qui permettent de donner un avantage économique mais peu prises en compte",
+    "topic": "Aides financières",
+    "page": 3
+  },
+  {
+    "content": "Recommandations (Page 21)",
+    "type": "list",
+    "section": "Aspects financiers",
+    "subsection": "Recommandations",
+    "topic": "Recommandations",
+    "page": 3
+  },
+  {
+    "content": "V. Aspects réglementaires (Page 23)",
+    "type": "list",
+    "section": "Aspects réglementaires",
+    "subsection": "",
+    "topic": "Aspects réglementaires",
+    "page": 3
+  },
+  {
+    "content": "Des mesures politiques européennes qui vont devenir plus coercitives dans les prochaines années (Page 23)",
+    "type": "list",
+    "section": "Aspects réglementaires",
+    "subsection": "Des mesures politiques européennes qui vont devenir plus coercitives dans les prochaines années",
+    "topic": "Mesures européennes",
+    "page": 3
+  },
+  {
+    "content": "Une réglementation française peu cohérente qui ne permet pas de donner de signal clair aux acteurs du secteur (Page 25)",
+    "type": "list",
+    "section": "Aspects réglementaires",
+    "subsection": "Une réglementation française peu cohérente qui ne permet pas de donner de signal clair aux acteurs du secteur",
+    "topic": "Réglementation française",
+    "page": 3
+  },
+  {
+    "content": "Recommandations (Page 26)",
+    "type": "list",
+    "section": "Aspects réglementaires",
+    "subsection": "Recommandations",
+    "topic": "Recommandations",
+    "page": 3
+  },
+  {
+    "content": "VI. Conclusion (Page 28)",
+    "type": "list",
+    "section": "Conclusion",
+    "subsection": "",
+    "topic": "Conclusion",
+    "page": 3
+  },
+  {
+    "content": "Annexe : Présentation du modèle TCO (Page 29)",
+    "type": "list",
+    "section": "Annexe",
+    "subsection": "Présentation du modèle TCO",
+    "topic": "Modèle TCO",
+    "page": 3
+  },
+  {
+    "content": "Après avoir démarré sa conquête des voitures particulières, le camion électrique s'impose aussi comme la solution la plus adéquate pour la logistique urbaine et régionale car elle permet une décarbonation à la hauteur des enjeux climatiques (-85% en cycle de vie pour le camion électrique) et apporte des bénéfices importants en milieu urbain notamment au niveau de la pollution atmosphérique et sonore, par rapport aux autres motorisations. En conséquence, la flotte de camions électriques devrait croître substantiellement dans les prochaines années, appuyée par des règles européennes contraignantes à l'égard des véhicules thermiques (objectif de -30% des émissions carbone en 2030 par rapport à 2019/2020 pour les poids lourds neufs vendus) et l'offre croissante et de plus en plus innovante des constructeurs (environ 40% de leurs ventes seront des camions à batteries d'ici 2030, soit dans 8 ans).",
+    "type": "text",
+    "section": "Résumé",
+    "subsection": "",
+    "topic": "Camion électrique avantages",
+    "page": 4
+  },
+  {
+    "content": "Cependant, en 2022, la question du déploiement opérationnel du camion électrique est encore en-deçà des niveaux attendus et exigés par les ambitions climatiques. Afin de concrétiser la transition énergétique des véhicules pour le transport de marchandises régional, cette étude vise à identifier les barrières au déploiement opérationnel du camion électrique et les solutions à mettre en place pour les dépasser.",
+    "type": "text",
+    "section": "Résumé",
+    "subsection": "",
+    "topic": "Objectif de l'étude",
+    "page": 4
+  },
+  {
+    "content": "Cette étude, pilotée par Carbone 4 et coordonnée par l'ONG Transport & Environnement, a réuni différents acteurs de la chaîne de valeur du camion électrique : le constructeur Renault Trucks, le distributeur d'électricité Enedis, la Métropole du Grand Lyon, les transporteurs Delanchy et STEF. Ces différents acteurs se sont penchés sur un cas d'étude concret : l'électrification du transport alimentaire frigorifique dans la Métropole du Grand Lyon.",
+    "type": "text",
+    "section": "Résumé",
+    "subsection": "",
+    "topic": "Acteurs et cas d'étude",
+    "page": 4
+  },
+  {
+    "content": "Les principaux constats et recommandations issus de l'étude sont résumés ci-dessous :",
+    "type": "text",
+    "section": "Résumé",
+    "subsection": "",
+    "topic": "Synthèse constats recommandations",
+    "page": 4
+  },
+  {
+    "content": "{\"Aspects techniques et opérationnels\": {\"Constats\": [\"Des contraintes d'exploitation liées principalement à l'autonomie limitée du camion électrique à ce jour.\", \"20 à 40% des camions frigorifiques électrifiables avec une faible adaptation des schémas logistiques.\", \"Contraintes d'exploitation restantes pouvant être levées d'ici 2025 avec les nouveaux modèles de camions.\"], \"Recommandations\": [\"Faire des tests et partager le REX sur des cas opérationnels pour développer le savoir-faire associé.\", \"Commencer dès maintenant à se convertir à l'électrique sur les tournées les plus adaptées.\", \"Disposer de bornes de recharge rapides au dépôt pour augmenter la disponibilité et la polyvalence.\", \"Déployer un réseau de bornes publiques de recharge rapide pour poids lourds.\"]}, \"Aspects financiers\": {\"Constats\": [\"Sans aides financières, surcoût TCO du camion électrique lié à un coût d'acquisition plus élevé (en diminution).\", \"Avec aides financières, gain TCO du camion électrique sur les tournées électrifiables à ce jour.\", \"Aides financières encore peu utilisées.\"], \"Recommandations\": [\"Anticiper la baisse du coût d'acquisition du camion électrique.\", \"Répercuter une partie du surcoût auprès de chargeurs.\", \"Faciliter l'accès et améliorer la pérennité et la visibilité des aides financières.\"]}, \"Aspects réglementaires\": {\"Constats\": [\"Mesures politiques européennes plus coercitives dans les prochaines années.\", \"Pas de signal clair aux acteurs du secteur lié à une réglementation française peu cohérente.\"], \"Recommandations\": [\"Revoir à la hausse les ambitions des mesures politiques européennes et des zones à faibles émissions.\", \"Privilégier les véhicules Crit'Air 0 face au gaz et aux biocarburants liquides.\", \"Faciliter la confiance dans le soutien financier.\"]}}",
+    "type": "list",
+    "section": "Résumé",
+    "subsection": "",
+    "topic": "Constats et Recommandations Détaillés",
+    "page": 4
+  },
+  {
+    "content": "Ainsi, les contraintes d'exploitation actuelles (autonomie limitée, diminution relative de charge utile pour les transporteurs de produits frais et temps de recharge long) et le manque de retours d'expérience sont les principaux facteurs limitant au déploiement de camions électriques.\nNéanmoins, dans le cas d'étude plutôt conservateur considéré pour le transport de marchandises (le transport frigorifique implique une consommation électrique supplémentaire pour le refroidissement), Carbone 4 estime que 20 à 40% des camions frigorifiques sont électrifiables, avec un faible besoin d'adaptation des schémas logistiques et sans besoin de recharge rapide, en prenant en compte une autonomie de 180 à 250 km (modèle disponible en 2023, soit à commander dès aujourd'hui). Cette part peut croître davantage, d'une part avec une adaptation plus significative des schémas logistiques, et d'autre part avec les modèles futurs qui devraient garantir une autonomie plus importante dès 2024-2025.\nSi l'on souhaite réellement atteindre les objectifs climatiques français et européens pour 2030, compte tenu du remplacement progressif des véhicules d'une flotte, il est essentiel selon Carbone 4 d'amorcer la transition de motorisations dès aujourd'hui, afin d'éviter une demande en camions électriques trop brutale en 2030, à la fois en termes de financement pour les transporteurs et de production pour les constructeurs.",
+    "type": "text",
+    "section": "Défis et leviers pour le déploiement des camions électriques",
+    "subsection": "",
+    "topic": "Contraintes opérationnelles et potentiel",
+    "page": 5
+  },
+  {
+    "content": "Les freins financiers (surcoût TCO lié à un coût d'acquisition plus élevé) sont aussi importants, bien que moins prioritaires que les freins opérationnels. Toutefois, les aides financières permettent d'éliminer ce surcoût. Avec le prix moyen du camion électrique 16 t estimé par ICCT, la prise en compte du dispositif de suramortissement (dispositif fiscal pérenne car inscrit dans la loi jusqu'en 2030) seul permet d'atteindre la parité de TCO entre le camion électrique et le camion diesel. De plus, le bonus écologique permet de donner un avantage économique au camion électrique avec un TCO inférieure de 35 000 €, soit -4 400 € par an par rapport au camion diesel équivalent (dans le cadre des 20-40% de cas électrifiables dès aujourd'hui). Enfin, dans un monde où le prix des énergies est de plus en plus incertain, les faibles coûts d'exploitation énergétique du camion électrique peuvent être un atout pour diminuer le risque financier.",
+    "type": "text",
+    "section": "Défis et leviers pour le déploiement des camions électriques",
+    "subsection": "",
+    "topic": "Freins et aides financières",
+    "page": 5
+  },
+  {
+    "content": "Actuellement, le camion électrique est avant tout un changement de paradigme qui nécessite d'adapter son schéma d'exploitation. Il faut accompagner ce changement par des politiques réglementaires encore plus incitatives envers cette motorisation, avec des ZFE plus en faveur du Crit'Air 0, et en facilitant l'accès et la confiance aux aides financières (par exemple, avec la plateforme MonCompteMobilité). Il faut également s'assurer que les différentes parties prenantes sont convaincues des avantages environnementaux et financiers du camion électrique ainsi que de leur rôle prépondérant à l'avenir.",
+    "type": "text",
+    "section": "Défis et leviers pour le déploiement des camions électriques",
+    "subsection": "",
+    "topic": "Accompagnement de la transition",
+    "page": 5
+  },
+  {
+    "content": "La décarbonation du transport routier est essentielle pour l'atteinte des objectifs climatiques",
+    "type": "text",
+    "section": "Introduction",
+    "subsection": "La décarbonation du transport routier est essentielle pour l'atteinte des objectifs climatiques",
+    "topic": "Subsection title",
+    "page": 7
+  },
+  {
+    "content": "Le transport représente le premier secteur émetteur de gaz à effet de serre (GES) en France. Ce secteur est responsable de 31% des émissions directes de GES en France en 2019, soit de l'ordre de 136 MtCO2e/an¹. Parmi les émissions liées au transport, environ 40% des émissions peuvent être attribuées au transport de marchandises (dont 21% pour les poids lourds et 16% pour les VUL). C'est également le seul secteur où est observé une hausse des émissions depuis 1990 – les émissions liées au transport ont augmenté d'environ 11 % depuis 1990, alors que les émissions de GES de la France (périmètre du protocole de Kyoto, hors UTCATF) ont diminué d'environ 20 % depuis 1990.",
+    "type": "text",
+    "section": "Introduction",
+    "subsection": "La décarbonation du transport routier est essentielle pour l'atteinte des objectifs climatiques",
+    "topic": "Transport emissions overview",
+    "page": 7
+  },
+  {
+    "content": "{\"title\": \"Décomposition des émissions directes de GES des transports entre catégories de véhicules en France en 2019\", \"total_emissions\": \"136 MtCO2e\", \"breakdown\": [{\"category\": \"Voitures\", \"percentage\": \"54%\"}, {\"category\": \"Camions\", \"percentage\": \"21%\"}, {\"category\": \"Camionnettes\", \"percentage\": \"16%\"}, {\"category\": \"Avions\", \"percentage\": \"4%\"}, {\"category\": \"Bus et cars\", \"percentage\": \"2%\"}, {\"category\": \"Autres\", \"percentage\": \"3%\"}], \"description\": \"This pie chart illustrates the breakdown of direct greenhouse gas (GHG) emissions from transport by vehicle category in France in 2019. The total direct emissions are 136 MtCO2e. Cars account for the largest share at 54%, followed by trucks at 21%, and vans (camionnettes) at 16%. Airplanes contribute 4%, buses and coaches 2%, and other vehicles 3%.\"}",
+    "type": "chart",
+    "section": "Introduction",
+    "subsection": "La décarbonation du transport routier est essentielle pour l'atteinte des objectifs climatiques",
+    "topic": "GES emissions breakdown",
+    "page": 7
+  },
+  {
+    "content": "Figure 1: Décomposition des émissions directes de GES des transports entre catégories de véhicules en France en 2019 ¹",
+    "type": "text",
+    "section": "Introduction",
+    "subsection": "La décarbonation du transport routier est essentielle pour l'atteinte des objectifs climatiques",
+    "topic": "Figure 1 caption",
+    "page": 7
+  },
+  {
+    "content": "¹ Sources : analyses Carbone 4 d'après CITEPA. Notes : émissions au périmètre Kyoto, France métropolitaine + DROM appartenant à l'UE, sans les soutes maritimes et aériennes internationales ; répartition des émissions hors utilisation des terres, leurs changements et la forêt (UTCATF) ; autres véhicules : deux-roues, transport maritime, navigation fluviale et ferroviaire.",
+    "type": "text",
+    "section": "Introduction",
+    "subsection": "La décarbonation du transport routier est essentielle pour l'atteinte des objectifs climatiques",
+    "topic": "Data sources and notes",
+    "page": 7
+  },
+  {
+    "content": "Pour respecter ses objectifs climatiques d'atteindre la neutralité carbone à l'horizon 2050, la France s'est dotée d'une feuille de route, la Stratégie Nationale Bas Carbone, qui définit une trajectoire de réduction des émissions de gaz à effet de serre par secteur et qui donne des objectifs à court-moyen termes par secteur. L'objectif de neutralité à horizon 2050 se traduit pour le transport par une décarbonation quasiment totale du secteur des transports.",
+    "type": "text",
+    "section": "Contexte et Objectifs Climatiques",
+    "subsection": "",
+    "topic": "Objectifs climatiques France",
+    "page": 8
+  },
+  {
+    "content": "Figure 2: Évolution des émissions de GES par secteur en France selon la Stratégie Nationale Bas Carbone (MtCO2e)\n\nThis stacked bar chart illustrates the evolution of Greenhouse Gas (GHG) emissions in France by sector, based on the National Low Carbon Strategy, for the years 1990, 2015, and 2050. It also shows the average annual reduction rates between these periods.\n\nOverall Gross Positive Emissions:\n- 1990: 546 MtCO2e\n- 2015: 459 MtCO2e\n- 2050: 85 MtCO2e\n\nAverage Annual Reduction Rates:\n- Between 1990 and 2015: -0.7% p.a.\n- Between 2015 and 2050: -5% p.a.\n\nSectoral Emissions (MtCO2e):\n- **1990:**\n  - Déchets: 17\n  - Énergie: 78\n  - Industrie: 144\n  - Bâtiment: 91\n  - Agriculture: 94\n  - Transport: 122\n  - Puits (Carbon Sinks): -35\n- **2015:**\n  - Déchets: 17\n  - Énergie: 47\n  - Industrie: 81\n  - Bâtiment: 88\n  - Agriculture: 89\n  - Transport: 137\n  - Puits (Carbon Sinks): -41\n- **2050:**\n  - Déchets: 10\n  - Énergie: 16\n  - Industrie, Bâtiment, Agriculture: Combined 9 (individually very low, close to 0)\n  - Transport: 50\n  - Puits (Carbon Sinks): -85",
+    "type": "chart",
+    "section": "Contexte et Objectifs Climatiques",
+    "subsection": "",
+    "topic": "Émissions GES France",
+    "page": 8
+  },
+  {
+    "content": "Les émissions du secteur du transport de marchandise, et particulièrement celles causées par les poids lourds, constituent l'obstacle majeur à l'accomplissement de l'objectif de décarbonation du secteur du transport. La flotte de poids lourds, fonctionnant pour la quasi-totalité au carburant fossile traditionnel, devra être remplacée par des alternatives n'émettant pas de GES en phase d'utilisation à l'horizon 2050. Se pose ainsi la question des alternatives les plus pertinentes pour remplacer la motorisation thermique.",
+    "type": "text",
+    "section": "Quelles motorisations alternatives pour décarboner le transport de marchandise ?",
+    "subsection": "Enjeux de la décarbonation du transport de marchandise",
+    "topic": "Décarbonation transport marchandise",
+    "page": 8
+  },
+  {
+    "content": "D'un point de vue climat, trois solutions permettent de décarboner les poids lourds à hauteur des enjeux climatiques (voir graphique ci-dessous) : le biogaz (mais pas le gaz naturel), les batteries électriques et l'hydrogène bas carbone.",
+    "type": "text",
+    "section": "Quelles motorisations alternatives pour décarboner le transport de marchandise ?",
+    "subsection": "Solutions de décarbonation des poids lourds",
+    "topic": "Solutions décarbonation poids lourds",
+    "page": 8
+  },
+  {
+    "content": "Ce graphique présente l'empreinte carbone moyenne sur la durée de vie d'un tracteur routier vendu en 2020 en France, exprimée en gCO₂e/km. Il compare six types de motorisations et décompose leur empreinte carbone en trois ou quatre catégories : Fabrication hors équipements, Batterie/PAC/Réservoir, Usage, et Fin de vie (cette dernière catégorie n'apparaît pas dans les barres, suggérant une valeur nulle ou négligeable).\n\n**Détails des motorisations et de leur empreinte carbone (gCO₂e/km) :**\n*   **Thermique - diesel :**\n    *   Total : 1088\n    *   Usage : 995\n    *   Fabrication hors équipements : 93\n*   **Thermique - GNC :**\n    *   Total : 839\n    *   Réduction par rapport au diesel : -23%\n    *   Usage : 739\n    *   Fabrication hors équipements : 100\n*   **Thermique - 100% bioGNC :**\n    *   Total : 244\n    *   Réduction par rapport au diesel : -78%\n    *   Usage : 144\n    *   Fabrication hors équipements : 100\n*   **Hybride rechargeable - diesel :**\n    *   Total : 838\n    *   Usage : 714\n    *   Fabrication hors équipements : 124\n*   **Électrique batterie - France :**\n    *   Total : 306\n    *   Réduction par rapport au diesel : -72%\n    *   Usage : 59\n    *   Batterie/PAC/Réservoir : ~100 (estimation visuelle)\n    *   Fabrication hors équipements : ~147 (calculé)\n*   **Hydrogène - électrolyse France :**\n    *   Total : 397\n    *   Réduction par rapport au diesel : -64%\n    *   Usage : 254\n    *   Batterie/PAC/Réservoir : ~100 (estimation visuelle)\n    *   Fabrication hors équipements : ~43 (calculé)\n\nLe graphique montre que les motorisations Thermique - 100% bioGNC et Électrique batterie - France offrent les réductions d'empreinte carbone les plus significatives par rapport au diesel, avec respectivement -78% et -72%. L'hydrogène électrolyse France réduit l'empreinte de 64%.",
+    "type": "chart",
+    "section": "Décarbonation du Transport Routier",
+    "subsection": "Empreinte Carbone des Tracteurs Routiers",
+    "topic": "Empreinte carbone véhicules",
+    "page": 9
+  },
+  {
+    "content": "Parmi les alternatives, le biogaz est utilisé dans un moteur à combustion, ce qui implique des émissions de particules fines et un niveau de bruit supérieur aux véhicules à motorisation électrique (véhicule fonctionnant à l'hydrogène vert ou à l'électricité). De plus, les capacités de production de l'hydrogène bas-carbone et le biogaz ont des gisements limités, avec une forte concurrence des usages entre les différents secteurs économiques qui ont également besoin de ces vecteurs énergétiques pour décarboner leur secteur. Par exemple, le secteur aérien et maritime, ou certaines industries chimiques recourant à l'hydrogène ne peuvent utiliser des batteries pour se décarboner, et vont devoir puiser dans les ressources limitées de biométhane et d'hydrogène. Ainsi, dans une logique d'ensemble, les véhicules électriques (à batteries) sont donc les plus adéquats pour la décarbonation du transport de marchandises urbain et péri-urbain.",
+    "type": "text",
+    "section": "Décarbonation du Transport Routier",
+    "subsection": "Enjeux et Pertinence des Motorisations Alternatives",
+    "topic": "Comparaison motorisations",
+    "page": 9
+  },
+  {
+    "content": "L'électrification est ainsi en train de s'imposer comme l'option privilégiée pour la décarbonation du secteur. Les constructeurs de poids lourds projettent qu'environ 40-50% de leurs ventes seront des camions zéro émission (principalement à batteries) d'ici 8 ans, en 2030.",
+    "type": "text",
+    "section": "Décarbonation du Transport Routier",
+    "subsection": "Perspectives d'Électrification des Poids Lourds",
+    "topic": "Électrification poids lourds",
+    "page": 9
+  },
+  {
+    "content": "Le graphique à barres, intitulé \"2030\", présente les engagements des constructeurs de véhicules lourds concernant la part des ventes de véhicules à faibles émissions pour l'année 2030, ainsi que la moyenne du marché global. L'axe des ordonnées représente le pourcentage de ventes, allant de 0% à 100%. L'axe des abscisses liste les constructeurs et le marché global.\n\nDonnées :\n- Iveco : 20%\n- Renault : 35%\n- MAN* : 44%\n- Scania : 50%\n- Volvo : 50%\n- Daimler : 60%\n- Overall market (Marché global) : 43%\n\nDaimler affiche l'engagement le plus élevé avec 60% de ventes de véhicules à faibles émissions d'ici 2030, tandis qu'Iveco a l'engagement le plus bas à 20%. La moyenne du marché global est de 43%.",
+    "type": "chart",
+    "section": "Contexte et Enjeux de l'Électrification des Poids Lourds",
+    "subsection": "Engagements des Constructeurs",
+    "topic": "Engagements constructeurs 2030",
+    "page": 10
+  },
+  {
+    "content": "Figure 4 : Engagements des constructeurs sur la part de ventes de véhicules à faibles émissions (T&E, 2021³)",
+    "type": "text",
+    "section": "Contexte et Enjeux de l'Électrification des Poids Lourds",
+    "subsection": "Engagements des Constructeurs",
+    "topic": "Légende graphique",
+    "page": 10
+  },
+  {
+    "content": "En plus d'une offre grandissante de poids lourds électriques, les réglementations plus restrictives poussent également vers une accélération de l'électrification. En effet, les réglementations sont de plus en plus coercitives pour les constructeurs, qui devront réduire d'au moins 30% en 2030 (objectif revu d'ici la fin de l'année, à priori à la hausse) la moyenne d'émissions de tous les véhicules neufs vendus sur une année⁴. Et concernant les transporteurs, des zones à faibles émissions (ZFE) ont déjà été mises en place dans 11 métropoles françaises, et le seront dans toutes les villes de plus de 150 000 habitants d'ici à 2025⁵.",
+    "type": "text",
+    "section": "Contexte et Enjeux de l'Électrification des Poids Lourds",
+    "subsection": "Réglementations et Incitations",
+    "topic": "Réglementations électrification",
+    "page": 10
+  },
+  {
+    "content": "Cependant, en France malgré les nombreux bénéfices qu'apporte le camion électrique en milieu urbain et péri-urbain d'un point de vue climatique et sanitaire, cette nouvelle technologie génère des questionnements pour les opérateurs de transport. En effet, les acteurs du secteur perçoivent de nombreux freins, qu'ils soient économiques, opérationnels ou réglementaires.",
+    "type": "text",
+    "section": "Contexte et Enjeux de l'Électrification des Poids Lourds",
+    "subsection": "Défis et Freins à l'Adoption",
+    "topic": "Freins camion électrique",
+    "page": 10
+  },
+  {
+    "content": "Afin de concrétiser la transition énergétique des véhicules pour le transport de marchandise régional, cette étude vise à identifier les barrières au déploiement opérationnel du camion électrique et les solutions à mettre en place pour les dépasser.",
+    "type": "text",
+    "section": "Contexte et Enjeux de l'Électrification des Poids Lourds",
+    "subsection": "Objectif de l'Étude",
+    "topic": "Objectif étude",
+    "page": 10
+  },
+  {
+    "content": "3 Transport & Environment (2021), Easy ride: why the EU truck CO₂ target are unfit for the 2020s. Mise à jour en février 2022\n4 Normes de performances en matière d'émissions de CO₂ pour les poids lourds (Régulation (EU) 2019/1242). La Commission européenne présentera un projet de loi fin 2022 pour revoir les objectifs à la hausse.\n5 https://www.bfmtv.com/auto/tout-comprendre-zfe-ces-millions-de-voitures-bientot-ou-deja-interdites-de-circuler-dans-les-grandes-villes_AN-20220220038.html",
+    "type": "list",
+    "section": "Contexte et Enjeux de l'Électrification des Poids Lourds",
+    "subsection": "Références",
+    "topic": "Références",
+    "page": 10
+  },
+  {
+    "content": "Méthodologie de l'étude",
+    "type": "text",
+    "section": "Méthodologie de l'étude",
+    "subsection": "",
+    "topic": "Méthodologie",
+    "page": 11
+  },
+  {
+    "content": "Cette étude, pilotée par Carbone 4 et commanditée par les ONG Transport & Environnement, a réuni différents acteurs de la chaîne de valeur du camion électrique : le constructeur Renault Trucks, le distributeur d'électricité Enedis, la Métropole du Grand Lyon, les transporteurs Delanchy et STEF.",
+    "type": "text",
+    "section": "II. Méthodologie de l'étude",
+    "subsection": "Présentation de la démarche et de l'équipe projet",
+    "topic": "Acteurs de l'étude",
+    "page": 12
+  },
+  {
+    "content": "Carbone 4 a organisé plusieurs ateliers avec les parties prenantes de l'étude afin d'échanger ensemble sur les barrières au déploiement opérationnel du camion électrique pour le transport de marchandises régional et de faire émerger des solutions. Ce travail a également été complété par une revue de publications scientifiques⁶ et des entretiens supplémentaires afin d'analyser la représentativité du cas d'étude par rapport à d'autres localisations géographiques, à d'autres segments et sur d'autres types de flux.",
+    "type": "text",
+    "section": "II. Méthodologie de l'étude",
+    "subsection": "Présentation de la démarche et de l'équipe projet",
+    "topic": "Démarche de l'étude",
+    "page": 12
+  },
+  {
+    "content": "Ces différents acteurs se sont penchés sur un cas d'étude concret : l'électrification du transport alimentaire frigorifique dans la Métropole du Grand Lyon.",
+    "type": "text",
+    "section": "II. Méthodologie de l'étude",
+    "subsection": "Présentation du cas d'étude et représentativité",
+    "topic": "Cas d'étude",
+    "page": 12
+  },
+  {
+    "content": "CARACTÉRISTIQUES DES VÉHICULES CONSIDÉRÉS DANS CE CAS D'ÉTUDE :\n- Le modèle D Z.E. disponible en 2022 de Renault Trucks pour un porteur 4x2 électrique avec un PTAC de 16 tonnes avec une capacité de la batterie d'environ 260 kWh équipé d'une caisse frigorifique mono-température fonctionnant sur la batterie électrique du véhicule ;\n- Le modèle T E-Tech disponible en 2023 de Renault Trucks pour un porteur 4x2 électrique avec un PTAC de 16 T avec une capacité de la batterie d'environ 370 kWh équipé d'une caisse frigorifique mono-température fonctionnant sur la batterie électrique du véhicule ;",
+    "type": "list",
+    "section": "II. Méthodologie de l'étude",
+    "subsection": "Présentation du cas d'étude et représentativité",
+    "topic": "Véhicules étudiés",
+    "page": 12
+  },
+  {
+    "content": "La capacité des batteries des camions 16 ou 19 tonnes vendus entre 2016 et 2020 en Europe varie entre 200 à 300 kWh (International Council on Clean Transportation, 2021)⁷ selon le modèle considéré.",
+    "type": "text",
+    "section": "II. Méthodologie de l'étude",
+    "subsection": "Présentation du cas d'étude et représentativité",
+    "topic": "Capacité des batteries",
+    "page": 12
+  },
+  {
+    "content": "⁶ T&E, Comment décarboner le fret français d'ici 2050 ? (2020), Analysis of long haul battery electric trucks in EU Marketplace and technology, economic, environmental, and policy perspectives (2021), Roadmap for Electric Truck Charging (2020); ICCT, Total cost of ownership BETs in Europe (2020), CO2 STANDARDS FOR HEAVY-DUTY VEHICLES IN THE EUROPEAN UNION (2020); AVERE, Livre Blanc: L'électricité pour la filière des véhicules industriels (2020).\n⁷ International Council on Clean Transportation, 2021. Race to zero: how manufacturers are positioned for zero-emission commercial trucks and buses in Europe.",
+    "type": "text",
+    "section": "II. Méthodologie de l'étude",
+    "subsection": "",
+    "topic": "Références",
+    "page": 12
+  },
+  {
+    "content": "Pour la période 2021 – 2023, les principaux constructeurs européens annoncent le lancement de modèles de camions 16 ou 26 T avec une capacité de batterie entre 250 et 400 kWh (Fraunhofer ISI, 2021)⁸. Ainsi, les modèles de Renault sont utilisés comme base comparative pour cette étude et peuvent être considérés comme représentatifs du marché 2022 et 2023 des camions électriques sur le même segment (à noter néanmoins que les choix technologiques des différents constructeurs peuvent parfois diverger, notamment sur la capacité de batterie optimale).",
+    "type": "text",
+    "section": "Contexte de l'étude",
+    "subsection": "",
+    "topic": "Modèles de camions électriques",
+    "page": 13
+  },
+  {
+    "content": "Pour l’équivalent diesel, les données d’exploitation historiques ont été utilisées.",
+    "type": "text",
+    "section": "Contexte de l'étude",
+    "subsection": "",
+    "topic": "Données camions diesel",
+    "page": 13
+  },
+  {
+    "content": "Les transporteurs dans ce cas d’étude ont une activité intrarégionale avec des tournées qui font en moyenne 200 km. Les mêmes camions diesel peuvent faire :\n*   Soit des tournées urbaines avec des distances parcourues de moins de 150 km dans la matinée et dans ce cas, les camions peuvent être réutilisés l’après-midi pour une deuxième tournée,\n*   Soit des tournées régionales au cours desquelles les camions peuvent parcourir jusqu’à 400 km dans la même journée.",
+    "type": "list",
+    "section": "CARACTÉRISTIQUES DES ACTIVITÉS DES TRANSPORTEURS DANS CE CAS D’ÉTUDE",
+    "subsection": "Par rapport aux tournées",
+    "topic": "Types de tournées",
+    "page": 13
+  },
+  {
+    "content": "L’utilisation d’un camion frigorifique a deux conséquences importantes par rapport à la représentativité de l’étude :\n*   La charge utile est diminuée pour un camion frigorifique due au poids de la caisse et du groupe froid ;\n*   La consommation du véhicule est plus élevée due à l’énergie nécessaire pour garder la marchandise au frais. Ainsi, l’autonomie du camion électrique est potentiellement plus importante pour des camions non frigorifiques.",
+    "type": "list",
+    "section": "CARACTÉRISTIQUES DES ACTIVITÉS DES TRANSPORTEURS DANS CE CAS D’ÉTUDE",
+    "subsection": "Par rapport aux camions utilisés",
+    "topic": "Conséquences camions frigorifiques",
+    "page": 13
+  },
+  {
+    "content": "Fraunhofer ISI (2021), Lieferverkehr mit Batterie-Lkw: Machbarkeit 2021- Fallbeispiel REWE Group in der Region Nordost Deutschland",
+    "type": "text",
+    "section": "Notes",
+    "subsection": "",
+    "topic": "Référence bibliographique",
+    "page": 13
+  },
+  {
+    "content": "Aspects techniques et opérationnels",
+    "type": "text",
+    "section": "Aspects techniques et opérationnels",
+    "subsection": "",
+    "topic": "Technical Operational Aspects",
+    "page": 14
+  },
+  {
+    "content": "III. Aspects techniques et opérationnels",
+    "type": "text",
+    "section": "Aspects techniques et opérationnels",
+    "subsection": "",
+    "topic": "Aspects techniques",
+    "page": 15
+  },
+  {
+    "content": "Des contraintes d'exploitation liées en majeure partie à l'autonomie actuellement limitée du camion électrique",
+    "type": "text",
+    "section": "Aspects techniques et opérationnels",
+    "subsection": "Contraintes d'exploitation",
+    "topic": "Autonomie camion électrique",
+    "page": 15
+  },
+  {
+    "content": "Dans les conditions actuelles lors de la réalisation de l'étude (2021-2022), le camion électrique implique encore un certain nombre de contraintes d'exploitation liée à :",
+    "type": "text",
+    "section": "Aspects techniques et opérationnels",
+    "subsection": "Contraintes d'exploitation",
+    "topic": "Contraintes exploitation",
+    "page": 15
+  },
+  {
+    "content": "Une autonomie actuellement limitée\nDans ce cas d'étude, l'autonomie actuelle en 2022 (175 km maximum⁹ soit 140 km en considérant une marge de sécurité opérationnelle) et l'autonomie prévue en 2023 (250 km maximum⁹ soit 200 km en considérant une marge de sécurité opérationnelle) pour les modèles de camion électrique de 16 tonnes de Renault Trucks pour du transport frigorifique permettent de couvrir seulement une partie des activités des transporteurs régionaux.",
+    "type": "list",
+    "section": "Aspects techniques et opérationnels",
+    "subsection": "Contraintes d'exploitation",
+    "topic": "Autonomie limitée",
+    "page": 15
+  },
+  {
+    "content": "Une fluctuation de l'autonomie opérationnelle\nEn pratique, l'autonomie réelle peut fluctuer en fonction de nombreux facteurs :",
+    "type": "list",
+    "section": "Aspects techniques et opérationnels",
+    "subsection": "Contraintes d'exploitation",
+    "topic": "Fluctuation autonomie",
+    "page": 15
+  },
+  {
+    "content": "Des conditions opérationnelles : Pratique de conduite du chauffeur (vitesse de conduite, expérience du conducteur, utilisation du régulateur de vitesse), la charge du véhicule, conditions météorologiques, la topographie réelle. Dans ce cas d'étude, les produits devant être conservés au frais voire surgelé, le nombre d'heures de fonctionnement du camion et le nombre d'arrêts lors d'une journée impactent également la consommation moyenne du véhicule et donc l'autonomie du véhicule.",
+    "type": "list",
+    "section": "Aspects techniques et opérationnels",
+    "subsection": "Contraintes d'exploitation",
+    "topic": "Conditions opérationnelles",
+    "page": 15
+  },
+  {
+    "content": "De l'état de la batterie : L'autonomie de la batterie baisse avec son usage (vieillissement de la batterie, distance parcourue, type de charge, etc.). Il existe peu de retours d'expérience sur la dégradation de l'autonomie de la batterie d'une voiture électrique avec le temps. Un ordre de grandeur conservateur est la garantie des constructeurs : Renault Trucks garantit le maintien de 80% de la capacité initiale de la batterie pendant toute la durée de vie du contrat, soit le plus souvent 8 ans.",
+    "type": "list",
+    "section": "Aspects techniques et opérationnels",
+    "subsection": "Contraintes d'exploitation",
+    "topic": "État batterie",
+    "page": 15
+  },
+  {
+    "content": "Cette variation de l'autonomie du camion électrique implique une plus faible résilience à l'imprévu et augmente les risques de panne de batterie.",
+    "type": "text",
+    "section": "Aspects techniques et opérationnels",
+    "subsection": "Contraintes d'exploitation",
+    "topic": "Risques panne",
+    "page": 15
+  },
+  {
+    "content": "⁹ En considérant une consommation de 1,2 kWh/100 km pour un camion frigorifique en usage urbain",
+    "type": "text",
+    "section": "Aspects techniques et opérationnels",
+    "subsection": "Contraintes d'exploitation",
+    "topic": "Consommation référence",
+    "page": 15
+  },
+  {
+    "content": "Les camions électriques sont équipés de batteries sous forme de « pack » qui viennent ajouter un poids non négligeable au camion à vide. L'enjeu du dimensionnement des packs batterie des camions électriques est de réaliser un compromis entre l'autonomie du camion, le poids et le prix du pack installé. Ainsi, il est possible de varier de 2 à 6 packs de batterie pour garantir une autonomie suffisante mais cela engendre une diminution supplémentaire de la charge utile sur le camion et une augmentation des coûts. En moyenne, la majorité des utilisateurs embarquent 4 packs de batterie.\nAfin de prendre en compte le poids supplémentaire engendré par les batteries, la **réglementation autorise une augmentation du poids maximal des camions 16 ou 19 tonnes dans la limite de 2 tonnes**. Selon le modèle et le nombre de packs de batterie installés sur le camion, cette réglementation permet de compenser partiellement ou en totalité le poids supplémentaire engendré par les packs de batterie. Dans la pratique, des limitations techniques (charge à l'essieu, capacité du châssis, capacité de freinage) ne permettent pas encore de profiter pleinement de cette réglementation. Par exemple, la chaîne de traction électrique avec 4 packs de batterie lithium-ion d'une capacité d'environ 70 kWh engendre un surpoids de 1,4 tonnes donc une charge utile théorique presque équivalente entre un camion électrique et diesel. Cependant, en pratique dans cet exemple, la charge utile est diminuée d'environ 700 kg pour un porteur 16 tonnes. Cette diminution de la charge utile, bien que modérée, peut constituer un frein sur certaines tournées ou pour certaines activités, notamment pour les opérateurs de froid qui peuvent utiliser toute leur charge utile.",
+    "type": "text",
+    "section": "Défis de l'électrification des camions frigorifiques",
+    "subsection": "Une diminution relative de la charge utile pour les transporteurs du froid",
+    "topic": "Charge utile réduite",
+    "page": 16
+  },
+  {
+    "content": "Sans recharge rapide, le temps d'une recharge lente¹⁰ d'un véhicule limite la possibilité de faire plusieurs tournées par jour et donc engendre une moindre disponibilité du véhicule par rapport à un camion diesel sur la journée. Par exemple, un camion électrique d'une capacité de 260 kWh a un temps de recharge qui peut aller jusqu'à 12h avec une recharge à 22 kW (lente à l'échelle d'un poids lourd) pour une charge complète (souvent moins en conditions opérationnelles, car la batterie n'est jamais totalement déchargée). Cela est compatible dans le cas d'une tournée par jour en chargeant la nuit mais n'est pas compatible dans le cas de plusieurs tournées par jour.",
+    "type": "text",
+    "section": "Défis de l'électrification des camions frigorifiques",
+    "subsection": "Moindre disponibilité du camion électrique",
+    "topic": "Disponibilité du véhicule",
+    "page": 16
+  },
+  {
+    "content": "En conséquence, remplacer un camion diesel par son équivalent électrique aujourd'hui implique une perte de polyvalence par rapport au « couteau suisse » diesel et nécessite une adaptation des schémas logistiques (anticiper les distances, les charges utiles, le nombre de tournées, etc...).",
+    "type": "text",
+    "section": "Défis de l'électrification des camions frigorifiques",
+    "subsection": "",
+    "topic": "Perte de polyvalence",
+    "page": 16
+  },
+  {
+    "content": "Dans ce cas d'étude, en prenant en compte les contraintes d'exploitation et une autonomie de 180 à 250 km (modèle disponible en 2023), Carbone 4 estime que **20 à 40% des camions frigorifiques seront électrifiables** avec un faible besoin d'adaptation des schémas logistiques, sans besoin de recharge rapide. À noter que l'on considère une charge utile non maximale dans la plupart des cas, ce qui correspond bien à une part des tournées du cas d'étude.",
+    "type": "text",
+    "section": "Potentiel d'électrification et adaptations",
+    "subsection": "",
+    "topic": "Potentiel d'électrification",
+    "page": 16
+  },
+  {
+    "content": "¹⁰ Une charge d'une puissance de 20 à 40 kW est ici considérée comme une charge « lente » pour un poids lourd comparée à des charges rapides de 100 kW ou plus, alors qu'une charge de 22 kW est considérée comme « accélérée » pour un véhicule léger.",
+    "type": "text",
+    "section": "Notes",
+    "subsection": "",
+    "topic": "Définitions de charge",
+    "page": 16
+  },
+  {
+    "content": "Cependant, à cause des risques engendrés par une relative variation de l'autonomie, du faible retour d'expériences, et du manque d'installations de bornes de recharge rapides pour poids lourds, les transporteurs appliquent des marges de sécurité qui peuvent être très importantes (jusqu'à -50% par rapport à l'autonomie théorique observée dans cette étude dans le secteur du frigorifique), ce qui limite le périmètre d'exploitation prévu pour le camion électrique.",
+    "type": "text",
+    "section": "Défis et limites actuels",
+    "subsection": "",
+    "topic": "Risques autonomie camions",
+    "page": 17
+  },
+  {
+    "content": "De plus, les transporteurs et constructeurs manquent de retours d'expériences sur les camions électriques sur des usages réels et fonctionnels qui pourraient permettre de mieux comprendre cette technologie et les contraintes d'exploitation pour mieux les intégrer dans les schémas logistiques.",
+    "type": "text",
+    "section": "Défis et limites actuels",
+    "subsection": "",
+    "topic": "Manque retours d'expérience",
+    "page": 17
+  },
+  {
+    "content": "De nombreuses contraintes d'exploitation seront levées dans les prochaines années",
+    "type": "text",
+    "section": "Perspectives et évolutions futures",
+    "subsection": "",
+    "topic": "Levée contraintes exploitation",
+    "page": 17
+  },
+  {
+    "content": "L'autonomie accrue des nouveaux véhicules augmentera la part de tournées électrifiables et la résilience à l'imprévu. En effet, la capacité des batteries est en constante progression grâce au progrès technologique qui permet de réduire leurs coûts et leur poids. Dès 2023, la plupart des constructeurs majeurs européens devraient proposer une offre pour un 16 tonnes allant jusqu'à 400 kWh (Fraunhofer ISI, 2021)¹¹, soit entre 200 et 350 km le segment. La capacité des batteries des camions va continuer à augmenter dans les prochaines années et devrait couvrir la quasi-totalité des activités pour du transport de marchandises urbain et régional. En effet, pour le transport de marchandises régional, le rayon d'action journalier varie de 200 à 400 km, avec en France sur ce segment 89% des trajets de routier qui sont inférieurs à 300 km (Transport & Environment, 2020)¹².",
+    "type": "text",
+    "section": "Perspectives et évolutions futures",
+    "subsection": "De nombreuses contraintes d'exploitation seront levées dans les prochaines années",
+    "topic": "Amélioration autonomie batteries",
+    "page": 17
+  },
+  {
+    "content": "[\"¹¹ Fraunhofer ISI (2021), Lieferverkehr mit Batterie-Lkw: Machbarkeit 2021- Fallbeispiel REWE Group in der Region Nordost Deutschland\", \"¹² Transport & Environment, 2020. Comment décarboner le fret français d'ici 2050\"]",
+    "type": "list",
+    "section": "Références",
+    "subsection": "",
+    "topic": "Références bibliographiques",
+    "page": 17
+  },
+  {
+    "content": "Ce graphique, intitulé \"Projection de l'autonomie théorique pour les poids lourds à horizon 2025 en km pour ce cas d'étude\", présente l'évolution de l'autonomie prévisionnelle en kilomètres pour trois catégories de poids lourds (16t, 26t, 44t) entre 2022 et 2025.\n\nL'axe des ordonnées représente l'autonomie théorique prévisionnelle en km, allant de 0 à 700 km. L'axe des abscisses représente l'année, de 2022 à 2025.\n\nDonnées par catégorie de poids lourd:\n- **16t (ligne noire)**:\n  - 2022: 220 km\n  - 2023: 280 km\n  - 2024: 310 km\n  - 2025: 380 km\n- **26t (ligne bleu foncé)**:\n  - 2022: 200 km\n  - 2023: 260 km\n  - 2024: 290 km\n  - 2025: 330 km\n- **44t (ligne bleu clair)**:\n  - 2022: 220 km\n  - 2023: 350 km\n  - 2024: 350 km\n  - 2025: 650 km\n\nLe graphique montre une augmentation générale de l'autonomie pour toutes les catégories de poids lourds sur la période, avec une croissance particulièrement marquée pour les 44t entre 2024 et 2025.",
+    "type": "chart",
+    "section": "Projection de l'autonomie théorique pour les poids lourds à horizon 2025",
+    "subsection": "",
+    "topic": "Autonomie poids lourds",
+    "page": 18
+  },
+  {
+    "content": "En complément de l'augmentation de la capacité des batteries, il est également possible d'augmenter l'autonomie des camions électriques en considérant une recharge rapide effectuée entre deux tournées. Plusieurs solutions de recharge rapide ont été identifiées et hiérarchisées par faisabilité et efficacité :",
+    "type": "text",
+    "section": "Optimisation de l'autonomie et solutions de recharge",
+    "subsection": "Solutions de recharge rapide",
+    "topic": "Recharge rapide introduction",
+    "page": 18
+  },
+  {
+    "content": "Des bornes de recharge rapide au dépôt : Afin d'augmenter la disponibilité et la polyvalence du camion électrique, il est possible d'utiliser une charge rapide à mi-journée au dépôt. Par exemple, les bornes rapides (100 ou 150 kW) permettent de charger de 45 à 65 kWh en 30 minutes (pertes de charge incluses). De plus, il est possible techniquement de brancher le camion électrique en même temps que le chargement de la marchandise, ce qui permettrait d'optimiser le temps de disponibilité du camion.",
+    "type": "list",
+    "section": "Optimisation de l'autonomie et solutions de recharge",
+    "subsection": "Solutions de recharge rapide",
+    "topic": "Recharge rapide dépôt",
+    "page": 18
+  },
+  {
+    "content": "Des solutions de recharges rapides publiques : Cela offre une solution en cas d'imprévus et offre la possibilité de réaliser une deuxième tournée sur la même journée. Par exemple, une borne de recharge de 150 kW (puissance maximale de charge dans notre cas d'étude) permet à un camion électrique de recharger sa batterie à hauteur de 75 kWh en 30 minutes soit environ 60 km d'autonomie supplémentaire.",
+    "type": "list",
+    "section": "Optimisation de l'autonomie et solutions de recharge",
+    "subsection": "Solutions de recharge rapide",
+    "topic": "Recharge rapide publique",
+    "page": 18
+  },
+  {
+    "content": "La métropole de Lyon étudie plusieurs solutions de recharges rapides publiques :\n- Stations multi-énergies : La métropole de Lyon envisage de lancer deux appels à projet pour l'installation de stations de bioGNV, de l'électricité et de l'hydrogène à destination des VUL et des poids lourds.",
+    "type": "list",
+    "section": "Optimisation de l'autonomie et solutions de recharge",
+    "subsection": "Solutions de recharge rapide",
+    "topic": "Stations multi-énergies",
+    "page": 18
+  },
+  {
+    "content": "Bornes de recharge situées sur des places de stationnement :\nLa métropole de Lyon envisage également de réaliser une expérimentation avec des bornes de recharges rapides au niveau de places de livraison.",
+    "type": "list",
+    "section": "Défis et Perspectives de la Recharge",
+    "subsection": "",
+    "topic": "Bornes de recharge Lyon",
+    "page": 19
+  },
+  {
+    "content": "Une étude plus approfondie de ce type d'installation est nécessaire afin de déterminer si un modèle économique permettrait d'assurer une rentabilité. Il y était noté par la métropole de Lyon un besoin de subvention pour assurer le déploiement initial du réseau dans tous les cas.",
+    "type": "text",
+    "section": "Défis et Perspectives de la Recharge",
+    "subsection": "",
+    "topic": "Rentabilité et subventions",
+    "page": 19
+  },
+  {
+    "content": "La réglementation européenne prévoit aussi de déployer un réseau de recharge publique pour les poids lourds qui permettra d'offrir des solutions de recharge hors des dépôts. Dans sa proposition de révision du règlement européen sur le déploiement d'infrastructures pour carburants alternatifs, la Commission européenne invite à fixer des objectifs minimums d'installation de points de recharge publics au niveau des nœuds urbains et des grands axes du réseau transeuropéen de transport¹³, ainsi qu'un certain nombre de points de recharge avec une puissance d'au moins 350 kW. Le transport régional pourra donc bénéficier de ces points de recharge.",
+    "type": "text",
+    "section": "Défis et Perspectives de la Recharge",
+    "subsection": "",
+    "topic": "Réglementation européenne",
+    "page": 19
+  },
+  {
+    "content": "Une solution de recharge rapide chez le client, ce dernier finançant l'achat et l'installation de la borne, amorti ensuite avec un supplément tarifaire pour la fourniture d'électricité : Cela demande néanmoins un temps de déchargement d'une durée minimum de 30 minutes et une utilisation relativement fréquente de la borne, ce qui limite fortement le potentiel de la solution car ces cas restent des exceptions pour du transport régional de marchandise.",
+    "type": "text",
+    "section": "Défis et Perspectives de la Recharge",
+    "subsection": "",
+    "topic": "Recharge rapide client",
+    "page": 19
+  },
+  {
+    "content": "Ainsi, les contraintes techniques et opérationnelles seront dépassées dans les prochaines années pour la quasi-totalité de la logistique régionale, principalement grâce aux constructeurs de véhicules dans le déploiement de modèles avec des batteries plus capacitaires, mais aussi avec l'installation des bornes de recharge par les exploitants (au dépôt), les chargeurs (clients), et les collectivités (aires de stationnement, stations multi-énergies).",
+    "type": "text",
+    "section": "Défis et Perspectives de la Recharge",
+    "subsection": "",
+    "topic": "Dépassement des contraintes",
+    "page": 19
+  },
+  {
+    "content": "Faire des essais sur des cas opérationnels avec des camions électriques",
+    "type": "text",
+    "section": "Recommandations",
+    "subsection": "Faire des essais sur des cas opérationnels avec des camions électriques",
+    "topic": "Essais camions électriques",
+    "page": 19
+  },
+  {
+    "content": "Les retours d'expérience sur cette nouvelle technologie en exploitation devraient permettre d'améliorer l'acceptabilité du camion électrique pendant cette période de transition. Ainsi, il est primordial que l'ensemble des acteurs (propriétaire ou exploitant) s'impliquent dans ces essais.",
+    "type": "text",
+    "section": "Recommandations",
+    "subsection": "Faire des essais sur des cas opérationnels avec des camions électriques",
+    "topic": "Améliorer l'acceptabilité",
+    "page": 19
+  },
+  {
+    "content": "¹³ La Commission européenne propose de positionner ces points de recharge le long du réseau transeuropéen de transport (RTE-T)",
+    "type": "text",
+    "section": "Notes de bas de page",
+    "subsection": "",
+    "topic": "Réseau transeuropéen",
+    "page": 19
+  },
+  {
+    "content": "d'une flotte de véhicules industriels réalisent des essais avec des camions électriques afin de prendre conscience des avantages de cette technologie (conduite plus souple, réduction du bruit et des vibrations), et surtout afin de mieux cerner ses spécificités d'exploitation différentes du camion diesel, et déterminer comment s'y adapter.",
+    "type": "text",
+    "section": "Stratégies d'adoption",
+    "subsection": "",
+    "topic": "Essais camions électriques",
+    "page": 20
+  },
+  {
+    "content": "Afin d'augmenter la disponibilité et la polyvalence du camion électrique, les transporteurs peuvent investir dans une borne de recharge rapide pour avoir recours à une charge rapide à mi-journée sur leur site au dépôt lors d'un chargement de marchandises pour une seconde tournée. La prise en compte des aides financières permet de maîtriser le coût total de possession (TCO) de cette solution (se référer à la section suivante sur les aspects financiers).",
+    "type": "text",
+    "section": "Stratégies d'adoption",
+    "subsection": "Identifier les besoins en charge rapide à mi-journée au dépôt pour répondre aux besoins opérationnels",
+    "topic": "Charge rapide dépôt",
+    "page": 20
+  },
+  {
+    "content": "Pour pallier aux imprévus et avoir la possibilité de réaliser une deuxième tournée sur la même journée, il convient que les métropoles et les décideurs nationaux mettent en place des solutions de bornes publiques de recharge rapide à destination des poids lourds. Plusieurs solutions sont envisageables : stations multi-énergies et bornes de recharge sur des places de stationnement.",
+    "type": "text",
+    "section": "Stratégies d'adoption",
+    "subsection": "Déployer des bornes de recharge rapide publiques",
+    "topic": "Bornes publiques poids lourds",
+    "page": 20
+  },
+  {
+    "content": "Il est important que les constructeurs améliorent la conception du camion électrique pour profiter pleinement de la réglementation afin d'atteindre la parité de charge utile entre un camion électrique et diesel.",
+    "type": "text",
+    "section": "Stratégies d'adoption",
+    "subsection": "Améliorer la conception afin d'atteindre la parité de la charge utile",
+    "topic": "Parité charge utile",
+    "page": 20
+  },
+  {
+    "content": "La mise sur le marché de nouveaux modèles ainsi que le déploiement de bornes de recharge rapides vont permettre de dépasser les contraintes techniques et opérationnelles identifiées lors de l'étude (2021-2022). Compte tenu du renouvellement progressif d'une flotte de camions et de la faisabilité technique, il est donc pertinent pour les propriétaires et exploitants de véhicules industriels de commencer dès maintenant à déployer des camions électriques sur les tournées les moins contraintes. Dès 2023, jusqu'à 40% des tournées journalières pourraient être couvertes avec une faible adaptation des schémas logistiques. Il est donc important de commencer dès maintenant à se convertir à l'électrique sur une partie des tournées afin d'anticiper le renouvellement de la flotte, de développer le savoir-faire et l'expérience associée et d'apprendre à s'adapter à ses contraintes.",
+    "type": "text",
+    "section": "Stratégies d'adoption",
+    "subsection": "Commencer dès maintenant à se convertir à l'électrique sur les tournées les moins contraintes",
+    "topic": "Conversion progressive électrique",
+    "page": 20
+  },
+  {
+    "content": "Afin de pouvoir évaluer les aspects financiers et tester la pertinence des solutions proposées d'un point de vue financier, une analyse de coût a été effectuée à travers une comparaison du coût total de possession (TCO) entre un camion diesel de 16 tonnes et un camion électrique de 16 tonnes. La présentation de ce modèle TCO est disponible en annexe.",
+    "type": "text",
+    "section": "IV. Aspects financiers",
+    "subsection": "",
+    "topic": "Introduction TCO analysis",
+    "page": 22
+  },
+  {
+    "content": "Un surcoût sur le TCO hors aides financières lié à un coût d'acquisition plus élevé, qui devrait diminuer rapidement",
+    "type": "text",
+    "section": "IV. Aspects financiers",
+    "subsection": "",
+    "topic": "TCO acquisition cost",
+    "page": 22
+  },
+  {
+    "content": "This stacked bar chart, titled \"Figure 6: Comparaison TCO en euros sans aides financières entre un camion diesel et électrique frigorifique de 16 tonnes pour du transport de marchandise pour un usage urbain en considérant une tournée par jour de 200 km avec une charge lente au dépôt\", compares the Total Cost of Ownership (TCO) for a 16-tonne diesel truck and a 16-tonne electric refrigerated truck (Generation 2023, without financial aid) for urban goods transport, assuming a daily route of 200 km with slow charging at the depot.\n\nThe total TCO for the Diesel truck is 322,000 euros, while for the Electric truck (Generation 2023 - Sans aides) it is 373,000 euros, representing a +16% increase for the electric option.\n\nBreakdown of TCO components:\n\n**Diesel Truck (Total TCO: 322,000 euros)**\n*   **OPEX - énergie**: 147,000 euros\n*   **OPEX - maintenance**: 60,000 euros\n*   **CAPEX - véhicule - achat et revente (y compris carrosserie)**: 115,000 euros\n\n**Electric Truck - Generation 2023 - Sans aides (Total TCO: 373,000 euros)**\n*   **OPEX - énergie**: 53,000 euros\n*   **OPEX - maintenance**: 42,000 euros\n*   **CAPEX - infrastructure de charge**: 2,000 euros\n*   **CAPEX - véhicule - achat et revente (y compris carrosserie)**: 276,000 euros\n\nThe chart highlights that the higher TCO for the electric truck is primarily driven by the significantly higher CAPEX for the vehicle (276,000 euros for electric vs. 115,000 euros for diesel), despite lower OPEX for energy and maintenance.",
+    "type": "chart",
+    "section": "IV. Aspects financiers",
+    "subsection": "Un surcoût sur le TCO hors aides financières lié à un coût d'acquisition plus élevé, qui devrait diminuer rapidement",
+    "topic": "TCO comparison chart",
+    "page": 22
+  },
+  {
+    "content": "Actuellement, le coût d'acquisition d'un camion électrique hors aides financières est environ 2 à 3 fois plus élevé que pour un camion diesel¹⁴. Les entreprises de transport avec des moyens d'investissement importants peuvent surmonter ce frein, cependant pour les entreprises de transport de plus petite taille, débloquer le CAPEX nécessaire pour l'achat d'un camion électrique est prohibitif.",
+    "type": "text",
+    "section": "Coût d'acquisition",
+    "subsection": "",
+    "topic": "Coût d'acquisition actuel",
+    "page": 23
+  },
+  {
+    "content": "Selon une étude du International Council on Clean Transportation, le coût d'acquisition d'un camion électrique va rapidement diminuer sous l'effet de l'augmentation de la production de camions électriques et de la baisse attendue du coût des batteries pour les poids lourds. Cette tendance a été observée pour les voitures particulières (figure 7 ci-dessous).",
+    "type": "text",
+    "section": "Coût d'acquisition",
+    "subsection": "",
+    "topic": "Baisse future des coûts",
+    "page": 23
+  },
+  {
+    "content": "{\"title\": \"Figure 7 : Évolution de la baisse des coûts à horizon 2025 et 2030 des différents composants pour un tracteur routier (International Council on Clean Transportation, 2022)¹⁵\", \"description\": \"Ce graphique à barres empilées illustre la répartition des coûts d'acquisition pour un tracteur routier électrique en 2020 et les coûts projetés en 2030, ainsi que les réductions de pourcentage attendues pour divers composants entre 2020-2025 et 2025-2030 (par rapport à 2020).\", \"axes\": {\"x_axis\": [\"2020\", \"2020-2025 reductions\", \"2025-2030 reductions (vs. 2020)\", \"2030\"], \"y_axis\": \"Coût (USD)\"}, \"components\": [\"Electric HVAC systems\", \"Electric steering pump system\", \"HVAC and electrical\", \"Electronics thermal management\", \"Manufacturing\", \"Elec. air brake system\", \"High voltage components\", \"Driveline, cab, & chassis\", \"Motor, inverter, & transmission\", \"Battery pack\"], \"data\": {\"2020_costs_usd\": {\"Battery pack\": 120000, \"Motor, inverter, & transmission\": 35000, \"Driveline, cab, & chassis\": 25000, \"High voltage components\": 15000, \"Elec. air brake system\": 10000, \"Manufacturing\": 15000, \"Electronics thermal management\": 10000, \"HVAC and electrical\": 10000, \"Electric steering pump system\": 5000, \"Electric HVAC systems\": 5000, \"Total_approx\": 245000}, \"2030_projected_costs_usd\": {\"Battery pack\": 60000, \"Motor, inverter, & transmission\": 8000, \"Driveline, cab, & chassis\": 25000, \"High voltage components\": 9000, \"Elec. air brake system\": 6000, \"Manufacturing\": 12000, \"Electronics thermal management\": 10000, \"HVAC and electrical\": 10000, \"Electric steering pump system\": 5000, \"Electric HVAC systems\": 5000, \"Total_approx\": 150000}, \"percentage_reductions_vs_2020\": {\"by_2025\": {\"Manufacturing\": \"-5%\", \"Elec. air brake system\": \"-8%\", \"High voltage components\": \"-40%\", \"Motor, inverter, & transmission\": \"-57%\", \"Battery pack\": \"-26%\"}, \"by_2030\": {\"Manufacturing\": \"-8%\", \"Elec. air brake system\": \"-40%\", \"Motor, inverter, & transmission\": \"-78%\", \"Battery pack\": \"-50%\"}}}}",
+    "type": "chart",
+    "section": "Coût d'acquisition",
+    "subsection": "",
+    "topic": "Évolution des coûts des composants",
+    "page": 23
+  },
+  {
+    "content": "Le coût d'exploitation est environ 50% plus faible par km¹⁶ pour un camion électrique que pour un camion diesel ce qui permet de diminuer en partie le surcoût lié à l'acquisition.",
+    "type": "text",
+    "section": "Coûts liés à l'exploitation (maintenance et carburant)",
+    "subsection": "",
+    "topic": "Coût d'exploitation",
+    "page": 23
+  },
+  {
+    "content": "[\"¹⁴ Voir détail en annexe\", \"¹⁵ International Council on Clean Transportation, 2022. A meta-study of purchase costs for zero-emission trucks. https://theicct.org/wp-content/uploads/2022/02/purchase-cost-ze-trucks-feb22-1.pdf\", \"¹⁶ Voir détail en annexe\"]",
+    "type": "list",
+    "section": "Notes de bas de page",
+    "subsection": "",
+    "topic": "Références",
+    "page": 23
+  },
+  {
+    "content": "L’évolution du prix des énergies n’a pas été prise en compte dans la modélisation TCO car trop incertaine. Il est néanmoins probable qu’à long terme il y ait un renchérissement du prix des énergies fossiles (pétrole, gaz), que ce soit pour des raisons géopolitiques (ex : guerre en Ukraine) ou environnementales (ex : taxe carbone), ce qui viendra diminuer le surcoût TCO du camion électrique.",
+    "type": "text",
+    "section": "Analyse des coûts et du TCO",
+    "subsection": "",
+    "topic": "Évolution prix énergie",
+    "page": 24
+  },
+  {
+    "content": "Au-delà du potentiel gain sur le TCO, les OPEX en énergie réduits du camion électrique (15% du TCO sans aides, contre 45% pour les camions diesel) permettent de réduire l’exposition à une volatilité des prix des carburants de plus en plus forte, et donc un risque financier plus faible.",
+    "type": "text",
+    "section": "Analyse des coûts et du TCO",
+    "subsection": "",
+    "topic": "Réduction OPEX",
+    "page": 24
+  },
+  {
+    "content": "Actuellement, les entreprises ayant déployé des camions électriques n’ont pas un besoin supplémentaire significatif en puissance électrique car peu de camions électriques sont déployés par site et la charge lente est majoritairement utilisée. L’investissement lié au raccordement des bornes de recharge supplémentaires et/ou de plus forte puissance, ainsi que l’achat de bornes de recharge, doit donc être planifié et anticipé. A noter que le coût du raccordement au réseau pour l’installation des bornes de recharge est très variable et dépend de la puissance nécessaire et de la localisation des bornes à raccorder.",
+    "type": "text",
+    "section": "Analyse des coûts et du TCO",
+    "subsection": "Coûts liés à l’infrastructure de recharge",
+    "topic": "Coûts infrastructure recharge",
+    "page": 24
+  },
+  {
+    "content": "Ainsi, hors aides financières et à usage identique, le camion électrique de 16 tonnes génération 2023 frigorifique présente un surcoût sur le TCO par rapport à son équivalent diesel de 16%. Soit 6 400 € / an pour une distance parcourue de 200 km pour une tournée par jour soit 400 000 km sur 8 ans avec une charge lente au dépôt. Le taux de marge pour du transport de marchandise est mince ce qui rend le surcoût de TCO compliqué à absorber en totalité par les transporteurs.",
+    "type": "text",
+    "section": "Analyse des coûts et du TCO",
+    "subsection": "Total Cost of Ownership (TCO)",
+    "topic": "Surcoût TCO camion électrique",
+    "page": 24
+  },
+  {
+    "content": "Afin de réduire l’écart de coût d’acquisition entre le véhicule électrique et son équivalent diesel, les pouvoirs publics ont mis en place des dispositifs d’aides financières :",
+    "type": "text",
+    "section": "Améliorer l’accès aux aides financières qui permettent de donner un avantage économique",
+    "subsection": "",
+    "topic": "Introduction aides financières",
+    "page": 24
+  },
+  {
+    "content": "- Primes et incitations fiscales pour l’acquisition d’un camion électrique:\n  - Le bonus écologique : Bonus de 40 % du coût d’acquisition TTC pour l’achat ou la location de longue durée d’un véhicule industriel fonctionnant à l’électrique d’un montant de 50 000€ pour les camions, soit 37 500 € (non cumulable avec l’AAP, voir ci-dessous).",
+    "type": "list",
+    "section": "Améliorer l’accès aux aides financières qui permettent de donner un avantage économique",
+    "subsection": "",
+    "topic": "Primes acquisition camion électrique",
+    "page": 24
+  },
+  {
+    "content": "Suramortissement pour les poids lourds : Les entreprises utilisant de l'énergie électrique bénéficient d'un suramortissement valable jusqu'au 31 décembre 2030 de 60 % de la valeur des véhicules pour les véhicules dont le PTAC est compris entre 3,5 et 16 tonnes et de 40% pour les véhicules dont le PTAC est supérieur à 16 tonnes.",
+    "type": "text",
+    "section": "Aides financières pour la transition énergétique",
+    "subsection": "Aides pour les véhicules lourds électriques",
+    "topic": "Suramortissement poids lourds",
+    "page": 25
+  },
+  {
+    "content": "Appel à projet « Écosystème des véhicules lourds électriques » (AAP) : En février 2022, l'État a annoncé une nouvelle subvention non fiscalisée qui pourra atteindre 65% de l'écart de coût d'acquisition entre le camion électrique et diesel dans une limite de 100 000 € pour les véhicules dont le PTAC est inférieur à 26 tonnes et 150 000 € pour les véhicules dont le PTAC est supérieur à 26 tonnes (non cumulable avec le bonus écologique et la prime advenir).",
+    "type": "text",
+    "section": "Aides financières pour la transition énergétique",
+    "subsection": "Aides pour les véhicules lourds électriques",
+    "topic": "AAP véhicules lourds",
+    "page": 25
+  },
+  {
+    "content": "La Métropole de Lyon propose une aide de 10 000€ pour l'achat d'un camion électrique (cumulable avec les aides de l'État).",
+    "type": "text",
+    "section": "Aides financières pour la transition énergétique",
+    "subsection": "Aides pour les véhicules lourds électriques",
+    "topic": "Aide Métropole Lyon",
+    "page": 25
+  },
+  {
+    "content": "Primes pour l'installation des bornes de recharge :",
+    "type": "text",
+    "section": "Aides financières pour la transition énergétique",
+    "subsection": "Primes pour l'installation des bornes de recharge",
+    "topic": "Primes bornes recharge",
+    "page": 25
+  },
+  {
+    "content": "Subvention ADVENIR pour l'installation des infrastructures de recharge : Le montant de la prime sur l'équipement en bornes dépendra principalement de la puissance des infrastructures de recharges déployées. Pour les projets dont la puissance est inférieure à 500 kW, le montant maximum de prime par point de charge varie entre 2 700 à 18 000 € HT avec un taux d'aide à 60% selon la puissance de charge (non cumulable avec l'AAP).",
+    "type": "text",
+    "section": "Aides financières pour la transition énergétique",
+    "subsection": "Primes pour l'installation des bornes de recharge",
+    "topic": "Subvention ADVENIR",
+    "page": 25
+  },
+  {
+    "content": "AAP « Écosystème des véhicules lourds électriques » : L'installation de bornes de recharge dédiées à ces véhicules pourra faire l'objet d'un accompagnement allant jusqu'à 60 % (non cumulable avec le bonus écologique et la prime advenir).",
+    "type": "text",
+    "section": "Aides financières pour la transition énergétique",
+    "subsection": "Primes pour l'installation des bornes de recharge",
+    "topic": "AAP bornes recharge",
+    "page": 25
+  },
+  {
+    "content": "Les transporteurs pourront choisir entre deux combinaisons d'aide en 2022 :",
+    "type": "text",
+    "section": "Aides financières pour la transition énergétique",
+    "subsection": "Combinaisons d'aides disponibles",
+    "topic": "Combinaisons d'aides",
+    "page": 25
+  },
+  {
+    "content": "[\"Suramortissement pour les poids-lourds, bonus écologique (acquisition du camion) et prime advenir (bornes de recharge),\", \"Suramortissement pour les poids-lourds (acquisition du camion), AAP (acquisition du camion et bornes de recharge).\"]",
+    "type": "list",
+    "section": "Aides financières pour la transition énergétique",
+    "subsection": "Combinaisons d'aides disponibles",
+    "topic": "Options d'aides",
+    "page": 25
+  },
+  {
+    "content": "Cependant, peu d'entreprises ont recours à ces aides financières en raison de :",
+    "type": "text",
+    "section": "Obstacles et limites des aides financières",
+    "subsection": "Raisons du faible recours",
+    "topic": "Faible recours aux aides",
+    "page": 25
+  },
+  {
+    "content": "[\"La complexité des aides (critères différents selon le type d'aides, critères non accessibles à l'ensemble des acteurs, aide non systématique mais soumise à une évaluation...),\", \"Un manque d'accès à l'information (cependant, une plateforme avec l'ensemble des aides disponibles est en cours de création avec le projet Mon Compte Mobilité),\", \"La lenteur des processus administratifs pour obtenir les aides (peut atteindre plus d'un an entre le dépôt du dossier et l'obtention de l'aide),\", \"Le manque de personnel au sein des entreprises pour constituer la demande.\"]",
+    "type": "list",
+    "section": "Obstacles et limites des aides financières",
+    "subsection": "Raisons du faible recours",
+    "topic": "Obstacles identifiés",
+    "page": 25
+  },
+  {
+    "content": "De plus, mise à part le dispositif de suramortissement qui est inscrit dans la loi jusqu'en 2030, les autres aides financières n'apportent pas de garantie sur leur pérennité et pour l'AAP, sur son obtention, ce qui rend difficile pour les entreprises de s'engager sur une stratégie de déploiement de camions électriques avec des projections de TCO en se basant sur les aides.",
+    "type": "text",
+    "section": "Obstacles et limites des aides financières",
+    "subsection": "Pérennité et garantie des aides",
+    "topic": "Manque de garantie aides",
+    "page": 25
+  },
+  {
+    "content": "La prise en compte du dispositif de suramortissement seul permet d'atteindre la parité de TCO entre le camion électrique et le camion diesel pour un usage urbain en considérant une tournée par jour de 200 km avec une charge lente au dépôt. Le dispositif de suramortissement des poids lourds est un dispositif fiscal pérenne qui est inscrit dans la loi jusqu'en 2030¹⁷ et facilement applicable.",
+    "type": "text",
+    "section": "Analyse du TCO",
+    "subsection": "",
+    "topic": "TCO parité suramortissement",
+    "page": 26
+  },
+  {
+    "content": "En plus du dispositif de suramortissement, le bonus écologique permet de donner un avantage économique important au camion électrique avec un TCO inférieur de 35 000 €, soit -4 400 € par an par rapport au camion diesel équivalent.",
+    "type": "text",
+    "section": "Analyse du TCO",
+    "subsection": "",
+    "topic": "TCO avantage bonus écologique",
+    "page": 26
+  },
+  {
+    "content": "Le graphique compare le Coût Total de Possession (TCO) en euros pour un camion diesel et différentes configurations de camions électriques frigorifiques de 16 tonnes, utilisés pour le transport de marchandises en milieu urbain avec une tournée quotidienne de 200 km et une charge lente au dépôt. Les coûts sont ventilés en OPEX (énergie, maintenance) et CAPEX (infrastructure de charge, véhicule).\n\n**Données du graphique :**\n*   **Légende des coûts :**\n    *   OPEX - énergie\n    *   OPEX - maintenance\n    *   CAPEX - infrastructure de charge\n    *   CAPEX - véhicule - achat et revente (y compris carrosserie)\n\n*   **Camion Diesel :**\n    *   TCO Total : 322 000 €\n    *   OPEX - énergie : 147 000 €\n    *   OPEX - maintenance : 60 000 €\n    *   CAPEX - véhicule : 115 000 €\n\n*   **Camion Électrique - Génération 2023 - Sans aides :**\n    *   TCO Total : 373 000 € (+16% par rapport au Diesel)\n    *   OPEX - énergie : 53 000 €\n    *   OPEX - maintenance : 42 000 €\n    *   CAPEX - infrastructure de charge : 2 000 €\n    *   CAPEX - véhicule : 276 000 €\n\n*   **Camion Électrique - Génération 2023 - Avec suramortissement :**\n    *   TCO Total : 325 000 € (+1% par rapport au Diesel)\n    *   OPEX - énergie : 53 000 €\n    *   OPEX - maintenance : 42 000 €\n    *   CAPEX - infrastructure de charge : 2 000 €\n    *   CAPEX - véhicule : 228 000 €\n\n*   **Camion Électrique - Génération 2023 - Avec suramortissement & bonus écologique :**\n    *   TCO Total : 287 000 € (-11% par rapport au Diesel)\n    *   OPEX - énergie : 53 000 €\n    *   OPEX - maintenance : 42 000 €\n    *   CAPEX - infrastructure de charge : 2 000 €\n    *   CAPEX - véhicule : 191 000 €",
+    "type": "chart",
+    "section": "Analyse du TCO",
+    "subsection": "",
+    "topic": "Comparaison TCO camions",
+    "page": 26
+  },
+  {
+    "content": "Figure 8 : Comparaison TCO en euros avec aides financières entre un camion diesel et électrique frigorifique de 16 tonnes pour du transport de marchandise pour un usage urbain en considérant une tournée par jour de 200 km avec une charge lente au dépôt",
+    "type": "text",
+    "section": "Analyse du TCO",
+    "subsection": "",
+    "topic": "Légende Figure 8",
+    "page": 26
+  },
+  {
+    "content": "Analyse TCO de la charge rapide à mi-journée",
+    "type": "text",
+    "section": "Analyse du TCO",
+    "subsection": "Analyse TCO de la charge rapide à mi-journée",
+    "topic": "Charge rapide TCO",
+    "page": 26
+  },
+  {
+    "content": "Afin d'augmenter la disponibilité et la polyvalence du camion électrique, il est possible d'avoir recours à une charge rapide à mi-journée au dépôt lors d'un chargement de marchandises pour une seconde tournée. Cela engendre des coûts d'investissements additionnels :",
+    "type": "text",
+    "section": "Analyse du TCO",
+    "subsection": "Analyse TCO de la charge rapide à mi-journée",
+    "topic": "Coûts charge rapide",
+    "page": 26
+  },
+  {
+    "content": "¹⁷ La loi portant lutte contre le dérèglement climatique et renforcement de la résilience face à ses effets proroge jusqu'au 31 décembre 2030 le dispositif de déduction exceptionnelle (ou « suramortissement ») applicable aux poids lourds utilisant des énergies propres (article 133 de la loi 2021-1104 du 22 août 2021)",
+    "type": "text",
+    "section": "",
+    "subsection": "",
+    "topic": "Note de bas de page",
+    "page": 26
+  },
+  {
+    "content": "{\"title\": \"L'achat et l'installation de la borne de recharge rapide :\", \"items\": [\"Coût du matériel : entre 25 000 et 60 000 € selon le type et la puissance de la borne.\", \"Coût de l'installation (génie civil, pose, paramétrage, mise en service) : coût variable selon les caractéristiques du site.\", \"Coût du raccordement si nécessaire d'augmenter la puissance sur le site : coût variable selon la puissance nécessaire et la situation géographique.\"], \"conclusion\": \"Ce coût d'investissement peut être amorti sur la flotte en utilisant la borne de recharge pour plusieurs camions, par exemple dans le cas d'un chargeur rapide mobile, et dans le temps, les équipements d'infrastructure ont une durée de vie de 15-20 ans. Ce surcoût peut donc être répercuté sur une période plus longue que la durée de possession du véhicule.\"}",
+    "type": "list",
+    "section": "L'achat et l'installation de la borne de recharge rapide",
+    "subsection": "",
+    "topic": "Coût borne recharge",
+    "page": 27
+  },
+  {
+    "content": "Avoir recours à une charge rapide à mi-journée permet de rendre plus disponible le camion électrique, mais le nombre de cycles annuel de la batterie est donc doublé, ce qui a pour conséquence un vieillissement jusqu'à 2 fois plus rapide de la batterie. Il est possible que cela entraîne un besoin de changement de batterie avant la fin de la première vie (8 ans) du camion.",
+    "type": "text",
+    "section": "Impact sur le vieillissement de la batterie",
+    "subsection": "",
+    "topic": "Vieillissement batterie",
+    "page": 27
+  },
+  {
+    "content": "{\"title\": \"Comparaison TCO en euros avec aides financières entre un camion diesel et électrique frigorifique de 16 tonnes\", \"description\": \"Ce graphique en barres empilées compare le Coût Total de Possession (TCO) pour un camion diesel et trois scénarios de camions électriques frigorifiques de 16 tonnes, pour un usage urbain avec deux tournées par jour (200 km & 150 km) et une charge rapide à mi-journée au dépôt. Les coûts sont ventilés en OPEX (énergie, maintenance) et CAPEX (infrastructure de charge, véhicule - achat et revente). Les pourcentages indiquent l'évolution du TCO par rapport au scénario précédent.\", \"categories\": [{\"label\": \"Diesel\", \"total\": 476000, \"segments\": [{\"name\": \"OPEX - énergie\", \"value\": 256000}, {\"name\": \"OPEX - maintenance\", \"value\": 105000}, {\"name\": \"CAPEX - véhicule - achat et revente (y compris carrosserie)\", \"value\": 115000}]}, {\"label\": \"Électrique - Génération 2023 - Sans aides\", \"total\": 584000, \"change_from_previous\": \"+23%\", \"segments\": [{\"name\": \"OPEX - énergie\", \"value\": 92000}, {\"name\": \"OPEX - maintenance\", \"value\": 79000}, {\"name\": \"CAPEX - infrastructure de charge\", \"value\": 58000}, {\"name\": \"CAPEX - véhicule - achat et revente (y compris carrosserie)\", \"value\": 355000}]}, {\"label\": \"Électrique - Génération 2023 - Avec suramortissement\", \"total\": 536000, \"change_from_previous\": \"-13%\", \"segments\": [{\"name\": \"OPEX - énergie\", \"value\": 92000}, {\"name\": \"OPEX - maintenance\", \"value\": 79000}, {\"name\": \"CAPEX - infrastructure de charge\", \"value\": 58000}, {\"name\": \"CAPEX - véhicule - achat et revente (y compris carrosserie)\", \"value\": 307000}]}, {\"label\": \"Électrique - Génération 2023 - Avec suramortissement & bonus écologique\", \"total\": 480000, \"change_from_previous\": \"+1%\", \"segments\": [{\"name\": \"OPEX - énergie\", \"value\": 92000}, {\"name\": \"OPEX - maintenance\", \"value\": 79000}, {\"name\": \"CAPEX - infrastructure de charge\", \"value\": 40000}, {\"name\": \"CAPEX - véhicule - achat et revente (y compris carrosserie)\", \"value\": 269000}]}], \"legend\": [\"OPEX - énergie\", \"OPEX - maintenance\", \"CAPEX - infrastructure de charge\", \"CAPEX - véhicule - achat et revente (y compris carrosserie)\"]}",
+    "type": "chart",
+    "section": "Comparaison TCO",
+    "subsection": "",
+    "topic": "TCO camions",
+    "page": 27
+  },
+  {
+    "content": "Figure 9 : Comparaison TCO en euros avec aides financières entre un camion diesel et électrique frigorifique de 16 tonnes pour du transport de marchandise pour un usage urbain en considérant deux tournées par jour de 200 km & 150 km avec une charge rapide à mi-journée au dépôt",
+    "type": "text",
+    "section": "Comparaison TCO",
+    "subsection": "",
+    "topic": "Description TCO",
+    "page": 27
+  },
+  {
+    "content": "Dans ce cas d'étude, en prenant en compte une charge rapide en dépôt à mi-journée pour chaque jour de fonctionnement, cela engendre un surcoût TCO d'environ 25%, soit 13 500€/an pendant 8 ans. Ce surcoût TCO est lié à un investissement CAPEX plus important pour l'acquisition du camion électrique, l'infrastructure de recharge et le changement de batterie au cours de la durée de possession du véhicule¹⁸. Ce surcoût est en partie amorti par des coûts d'exploitation inférieurs qui permettent d'économiser environ 24 000€ par an lors de l'exploitation sur la maintenance et le carburant.",
+    "type": "text",
+    "section": "Analyse TCO",
+    "subsection": "",
+    "topic": "Surcoût TCO charge rapide",
+    "page": 28
+  },
+  {
+    "content": "La prise en compte des aides (dispositif de suramortissement, bonus écologique et prime ADVENIR) permet d'atteindre la parité TCO avec un camion diesel (surcoût d'environ 500€ / an).",
+    "type": "text",
+    "section": "Analyse TCO",
+    "subsection": "",
+    "topic": "Aides et parité TCO",
+    "page": 28
+  },
+  {
+    "content": "Ainsi, la charge rapide en dépôt à mi-journée permet de lever en partie les freins liés à l'autonomie notamment en améliorant la disponibilité du véhicule avec la possibilité de faire plusieurs tournées par jour. La prise en compte des aides disponibles permet de maîtriser le coût total de possession de cette solution.",
+    "type": "text",
+    "section": "Analyse TCO",
+    "subsection": "",
+    "topic": "Avantages charge rapide",
+    "page": 28
+  },
+  {
+    "content": "Répercuter le surcoût auprès du chargeur",
+    "type": "text",
+    "section": "Recommandations",
+    "subsection": "Répercuter le surcoût auprès du chargeur",
+    "topic": "Répercussion surcoût",
+    "page": 28
+  },
+  {
+    "content": "Les transporteurs routiers de marchandises peuvent ajuster leur prix de transport en fonction du coût du carburant et le répercuter au chargeur en se basant sur l'indexation gazole actualisée tous les mois par le comité national routier (CNR). Ce système de répercussion de « pied de facture » est censé couvrir les variations des coûts du gazole. Il pourrait être envisagé un dispositif semblable « d'indexation électricité » pour les camions électriques pour répercuter le surcoût TCO du camion électrique par rapport à son équivalent diesel auprès des chargeurs. Plusieurs solutions pourraient être envisagées par les pouvoirs publics :",
+    "type": "text",
+    "section": "Recommandations",
+    "subsection": "Répercuter le surcoût auprès du chargeur",
+    "topic": "Indexation coûts transport",
+    "page": 28
+  },
+  {
+    "content": "[\"Avoir un indice pour l'électricité afin de pouvoir répercuter les variations des coûts de l'électricité pour limiter l'exposition à la volatilité des prix de l'électricité, même si le risque est moins important que pour les énergies fossiles,\", \"Imaginer un indice pour répercuter également le surcoût de l'acquisition du camion électrique.\"]",
+    "type": "list",
+    "section": "Recommandations",
+    "subsection": "Répercuter le surcoût auprès du chargeur",
+    "topic": "Solutions indexation électricité",
+    "page": 28
+  },
+  {
+    "content": "¹⁸ A noter que le coût d'investissement dans les équipements de recharge est conservateur car comptabilisé dans sa totalité dans ce modèle TCO étant donné que nous raisonnons pour un camion et sur la durée de possession. En réalité, les équipements de recharge ont une durée de vie plus longue que la durée de possession du véhicule et peuvent être réutilisés pour plusieurs camions.",
+    "type": "text",
+    "section": "Notes",
+    "subsection": "",
+    "topic": "Coût investissement recharge",
+    "page": 28
+  },
+  {
+    "content": "Dans le contexte actuel tendu pour le transport de marchandises (forte hausse des prix des carburants en 2022, pénurie de chauffeurs routiers), les chargeurs interrogés sont réticents à accepter une répercussion du surcoût lié à l'usage d'un camion électrique bien que celui-ci soit obligatoire pour le gazole. Cependant, il est probable qu'à l'avenir, avec l'intégration des préoccupations environnementales et notamment l'intégration d'un coût carbone interne à l'entreprise, cette solution deviendra pertinente.",
+    "type": "text",
+    "section": "Contexte Général",
+    "subsection": "",
+    "topic": "Contexte transport marchandises",
+    "page": 29
+  },
+  {
+    "content": "Il est indispensable que les pouvoirs publics facilitent l'accès et la pérennité des aides financières et en améliorent la visibilité en mettant en place par exemple les mesures suivantes :",
+    "type": "text",
+    "section": "Faciliter l'accès et la pérennité des aides financières et en améliorer la visibilité",
+    "subsection": "",
+    "topic": "Mesures aides financières",
+    "page": 29
+  },
+  {
+    "content": "[\"Proposer un calendrier clair des aides financières avec un maintien jusqu'en 2025 et des valeurs prédéfinies,\", \"Créer une plateforme unique à destination des transporteurs et des chargeurs qui permettrait de trouver des informations utiles au sujet des aides disponibles mais aussi d'avoir un outil de simulation permettant d'identifier les aides financières disponibles. Les exploitants pourraient également être accompagnés par un interlocuteur unique tout au long de leur projet de demande d'aides et qui serait chargé d'assurer le suivi technique, administratif et financier. Des exemples de plateforme unique existent dans d'autres secteurs (par exemple, France Rénov', le guichet unique de la rénovation énergétique) ou dans d'autres pays (comme la plateforme Allemande NOW – GMBH qui coordonne les programmes d'aide pour les mobilités propres),\", \"Simplifier le processus en laissant les constructeurs traiter directement la demande d'aide plutôt que les exploitants, moins experts sur ces sujets. Cela permettrait ainsi de limiter la charge administrative sur les exploitants, en particulier ceux de plus petite taille.\"]",
+    "type": "list",
+    "section": "Faciliter l'accès et la pérennité des aides financières et en améliorer la visibilité",
+    "subsection": "",
+    "topic": "Recommandations aides",
+    "page": 29
+  },
+  {
+    "content": "Le coût de raccordement pourrait faire l'objet de frais supplémentaires dans les années à venir pour les transporteurs dans le cas d'un déploiement important de camions électriques ou de l'installation de bornes de recharge rapide d'une puissance importante pour les sites non dotés d'une puissance existante suffisante sur site. Cependant, plusieurs solutions sont envisageables pour les transporteurs afin de modérer l'investissement nécessaire :",
+    "type": "text",
+    "section": "Anticiper le besoin en puissance pour modérer les coûts liés aux infrastructures de recharge",
+    "subsection": "",
+    "topic": "Coût infrastructures recharge",
+    "page": 29
+  },
+  {
+    "content": "[\"Avoir recours à des aides financières, notamment le programme ADVENIR,\", \"Solutions de smart charging pour faire baisser la puissance nécessaire et donc le prix. Cela nécessite d'impliquer les acteurs de raccordement au réseau dès le début de la conception du projet d'installation des bornes de recharge,\", \"Étendre la loi de réfaction tarifaire pour permettre de couvrir plus que 40% des frais de raccordement des bornes de charges privées, pour les dépôts de transporteurs.\"]",
+    "type": "list",
+    "section": "Anticiper le besoin en puissance pour modérer les coûts liés aux infrastructures de recharge",
+    "subsection": "",
+    "topic": "Solutions coûts recharge",
+    "page": 29
+  },
+  {
+    "content": "En anticipant le besoin futur de puissance nécessaire au déploiement de camions électriques, cet investissement ne sera nécessaire qu'une seule fois et pourra être amorti sur l'ensemble de la flotte de véhicules électriques et sur une durée bien plus longue que celle d'utilisation des véhicules. Ce besoin en puissance supplémentaire n'étant pas nécessaire actuellement, il n'est donc pas pris en compte dans les modélisations TCO ci-dessus (les coûts ne sont cependant pas de nature à modifier significativement le modèle économique, au vu de son amortissement important et de la réduction du prix des véhicules attendue).",
+    "type": "text",
+    "section": "Analyse Économique et Modélisation",
+    "subsection": "Investissement et Amortissement",
+    "topic": "Amortissement infrastructure VE",
+    "page": 30
+  },
+  {
+    "content": "Aspects réglementaires",
+    "type": "text",
+    "section": "Aspects réglementaires",
+    "subsection": "",
+    "topic": "Titre de section",
+    "page": 31
+  },
+  {
+    "content": "Au cours de la dernière période législative européenne, la Commission européenne (CE) a adopté plusieurs mesures politiques afin de réduire les émissions causées par le fret routier :",
+    "type": "text",
+    "section": "V. Aspects réglementaires",
+    "subsection": "Des mesures politiques européennes visant à accélérer la transition énergétique du fret routier",
+    "topic": "Introduction mesures",
+    "page": 32
+  },
+  {
+    "content": "[\"La Commission européenne (CE) propose d'inclure le secteur du transport routier dans le système d'échange de quotas d'émissions à partir de 2026, en vue de réduire les émissions de 43 % en 2030 par rapport à 2005.\", \"La CE doit proposer durant l'été 2022 un nouveau standard d'émissions (Euro VII) pour les poids lourds.\", \"Normes de performances en matière d'émissions de CO₂ pour les poids lourds (Régulation (EU) 2019/1242) : En vertu de ces règles, les constructeurs sont tenus de réduire en moyenne les émissions de dioxyde de carbone (en g CO₂e / t.km) des nouveaux poids lourds de 15 % à partir de 2025 et de 30 % à partir de 2030, par rapport aux niveaux de 2019/2020. Ces objectifs s'appliquent à la moyenne d'émissions de tous les véhicules neufs vendus sur une année par constructeur. Ils sont contraignants et les constructeurs de poids lourds qui ne les respectent pas devront s'acquitter d'une pénalité financière prenant la forme d'une prime sur les émissions excédentaires (à hauteur de 4 250€ par gCO₂e / t.km excédentaire puis 6 800€ par gCO₂e / t.km en 2030).\"]",
+    "type": "list",
+    "section": "V. Aspects réglementaires",
+    "subsection": "Des mesures politiques européennes visant à accélérer la transition énergétique du fret routier",
+    "topic": "Détail des mesures",
+    "page": 32
+  },
+  {
+    "content": "Malgré le caractère pionnier de cette réglementation, son ambition est loin d'être compatible avec les objectifs climat de l'Union Européenne. L'objectif de -30% en 2030 n'est pas suffisant comme le montre les projections de l'International Council on Clean Transportation :",
+    "type": "text",
+    "section": "V. Aspects réglementaires",
+    "subsection": "Des mesures politiques européennes visant à accélérer la transition énergétique du fret routier",
+    "topic": "Limites réglementations",
+    "page": 32
+  },
+  {
+    "content": "Figure 10: Émissions directes du secteur des transports selon différents scénarios de réduction pour 2020-2050 - International Council on Clean Transportation.\n\nLe graphique montre les émissions directes de CO₂ du transport routier dans l'UE (en millions de tonnes) de 2005 à 2050, ainsi que divers scénarios de réduction et objectifs. L'axe Y représente les émissions de CO₂ en millions de tonnes, allant de 0 à 1000. L'axe X représente les années de 2005 à 2050.\n\n**Lignes de scénario:**\n*   **Émissions directes de CO₂ du transport routier dans l'UE:** Une ligne noire décroissante, partant d'environ 900 millions de tonnes en 2005 et atteignant environ 750 millions de tonnes en 2020, puis continuant à décroître.\n*   **Règlement sur le partage de l'effort (30% en dessous de 2005):** Une ligne horizontale pointillée à environ 630 millions de tonnes.\n*   **Scénario 2 degrés Celsius:** Une ligne horizontale pointillée à environ 280 millions de tonnes.\n*   **Scénario au-delà de 2 degrés Celsius (conforme à l'Accord de Paris):** Une ligne horizontale pointillée à environ 150 millions de tonnes.\n*   **Propositions de la CE pour les VUL et VHC:** Plusieurs lignes pointillées descendantes, représentant différents niveaux de réduction, convergeant vers le point de l'Accord de Paris.\n\n**Tableau des réductions (pour 2030):**\n*   **Réductions de CO₂ du transport routier (2005-2030):**\n    *   -20%\n    *   -25%\n    *   -29%\n    *   -33%\n    *   -36%\n    *   -39%\n*   **Nouvelles émissions de CO₂ des véhicules en 2030*:**\n    *   **Voitures et camionnettes:**\n        *   -20%\n        *   -30%\n        *   -40%\n        *   -50%\n        *   -60%\n        *   -70%\n    *   **Camions:**\n        *   -20%\n        *   -30%\n        *   -40%\n        *   -50%\n        *   -50%\n        *   -70%\n\n*Comparé à la ligne de base de 2019 pour les camions rigides et les tracteurs, 2020 pour les camionnettes et 2021 pour les voitures.",
+    "type": "chart",
+    "section": "Réglementation et Objectifs d'Émissions de CO2",
+    "subsection": "Émissions directes du secteur des transports",
+    "topic": "Émissions CO2 Transport UE",
+    "page": 33
+  },
+  {
+    "content": "Dans le cadre du réexamen de la réglementation prévue fin 2022, la Commission européenne va réévaluer l'objectif de réduction d'émissions pour 2030 et mettre en place des objectifs contraignants au-delà (i.e. pour 2035 et 2040).",
+    "type": "text",
+    "section": "Réglementation et Objectifs d'Émissions de CO2",
+    "subsection": "Réexamen de la réglementation européenne",
+    "topic": "Réévaluation objectifs émissions",
+    "page": 33
+  },
+  {
+    "content": "Le règlement sur les infrastructures pour carburants alternatifs (Alternative Fuels Infrastructure Regulation, AFIR) : Autre signal fort de la transition vers les véhicules sans émission à l'usage : La commission européenne a introduit pour la première fois des objectifs minimum contraignants pour les états membres de déploiement d'infrastructure public de recharge et ravitaillement pour 2025 et 2030. L'objectif est d'assurer un transit de ces véhicules sans obstacles entre les frontières des États membres. Les objectifs en stations de recharge étant les suivants :\n*   Réseau central RTE-T : au moins 1 400 kW de puissance de charge tous les 60 km d'ici 2025, 3 500 kW d'ici 2030,\n*   Réseau global RTE-T : au moins 1 400 kW de puissance de charge tous les 100 km d'ici 2030, 3 500 kW d'ici 2035,\n*   Nœuds urbains : 600 kW d'ici 2025 et 1 200 kW d'ici 2030.",
+    "type": "list",
+    "section": "Réglementation et Objectifs d'Émissions de CO2",
+    "subsection": "Règlement sur les infrastructures pour carburants alternatifs (AFIR)",
+    "topic": "Objectifs infrastructures AFIR",
+    "page": 33
+  },
+  {
+    "content": "Néanmoins, les projections de la Commission européenne se fondent sur des projections de ventes de camions électriques à l'horizon 2025 et 2030 inférieures aux annonces récentes des constructeurs, ce qui présage que les objectifs de puissance installés pourraient être inférieurs à la demande.",
+    "type": "text",
+    "section": "Réglementation et Objectifs d'Émissions de CO2",
+    "subsection": "Projections de ventes de camions électriques",
+    "topic": "Projections camions électriques",
+    "page": 33
+  },
+  {
+    "content": "19 International Council on Clean Transportation, 2018. Recommendations for the proposed heavy-duty vehicle CO₂ standards in the European Union https://theicct.org/wp-content/uploads/2021/06/ICCT_EU-HDV-CO2_position-brief_20180725.pdf",
+    "type": "text",
+    "section": "Références",
+    "subsection": "",
+    "topic": "Source graphique",
+    "page": 33
+  },
+  {
+    "content": "La France s'est fixée un objectif de neutralité carbone à horizon 2050 ce qui se traduit pour le transport par une réduction de 28% des émissions en 2030 par rapport à 1990 dans la SNBC. Cependant, la France n'a pas encore instauré de mesures politiques significatives pour décarboner le transport routier de marchandise à l'échelle nationale.",
+    "type": "text",
+    "section": "Une réglementation française peu cohérente qui ne permet pas de donner de signal clair aux acteurs du secteur",
+    "subsection": "Mesures politiques adoptées à l'échelle nationale",
+    "topic": "Objectifs nationaux décarbonation",
+    "page": 34
+  },
+  {
+    "content": "À l'échelle locale, la France a établi un système d'étiquetage par autocollant (Crit'Air) afin de permettre aux métropoles d'imposer des restrictions à la circulation des véhicules les plus polluants sur leur territoire à travers les Zones à Faibles Émissions (ZFE). Cependant, les véhicules Crit'Air 1 (véhicules au gaz/biogaz, hybrides, biodiesel ou essence Euro 5/6) possédant des moteurs à combustion, donc nécessairement émetteurs de NOx, seront autorisés dans les ZFEs (mis à part celle de Paris à partir de 2030).",
+    "type": "text",
+    "section": "Une réglementation française peu cohérente qui ne permet pas de donner de signal clair aux acteurs du secteur",
+    "subsection": "Mesures politiques adoptées à l'échelle nationale",
+    "topic": "Système Crit'Air et ZFE",
+    "page": 34
+  },
+  {
+    "content": "De nombreuses zones à faibles émissions sont déjà ou sont en train d'être mises en place dans 11 métropoles françaises : Paris, Lyon, Grenoble, Marseille et Aix, Montpellier, Nice, Reims, Rouen, Saint-Étienne, Strasbourg et Toulouse. Les ZFEs permettent aux collectivités de limiter la circulation des véhicules les plus polluants sur leur territoire.",
+    "type": "text",
+    "section": "Une réglementation française peu cohérente qui ne permet pas de donner de signal clair aux acteurs du secteur",
+    "subsection": "Mesures politiques adoptées à l'échelle locale",
+    "topic": "Implémentation ZFE",
+    "page": 34
+  },
+  {
+    "content": "La ZFE de la Métropole de Lyon est entrée en vigueur le 1er janvier 2020. Depuis le 1er janvier 2021, seuls les poids lourds et les véhicules utilitaires légers destinés au transport de marchandises avec une vignette Crit'Air 0, 1 et 2 sont autorisés à circuler et stationner au sein de cette ZFE (les véhicules de Crit'Air 3, 4, 5 ou \"Non classé\" ne sont plus autorisés à y circuler ou y stationner). La Métropole de Lyon prévoit d'étendre cette interdiction à tous les véhicules Crit'Air 2 à horizon 2026. Cela se traduit par une interdiction de circulation et de stationnement des véhicules diesel (excepté biodiesel) dans la ZFE de Lyon à partir de 2026, mais qui autorise les camions roulant au gaz ou au biogaz. Or aujourd'hui, cela peut être vu comme un frein car afin de se préparer à la ZFE, de nombreux transporteurs privilégient les camions roulant au gaz, au biogaz, ou au biodiesel plutôt que les camions électriques comme véhicules de transition car moins contraignants opérationnellement et financièrement que les camions électriques.",
+    "type": "text",
+    "section": "Une réglementation française peu cohérente qui ne permet pas de donner de signal clair aux acteurs du secteur",
+    "subsection": "Mesures politiques adoptées à l'échelle locale",
+    "topic": "ZFE de Lyon",
+    "page": 34
+  },
+  {
+    "content": "Les zones à faibles émissions vont se renforcer dans les années à venir par leur nombre et par leur ambition. En effet, la loi Climat prévoit qu'à partir de 2025 toutes les agglomérations de plus de 150 000 habitants devront avoir mis en place une ZFE²⁰, soit 45 métropoles, et que seuls les véhicules porteurs d'une vignette Crit'Air 0, 1 ou 2 pourront être autorisés à rouler dans ces ZFE.",
+    "type": "text",
+    "section": "Une réglementation française peu cohérente qui ne permet pas de donner de signal clair aux acteurs du secteur",
+    "subsection": "Mesures politiques adoptées à l'échelle locale",
+    "topic": "Renforcement ZFE futures",
+    "page": 34
+  },
+  {
+    "content": "D'après la Loi Climat et Résilience votée en 2021",
+    "type": "text",
+    "section": "Une réglementation française peu cohérente qui ne permet pas de donner de signal clair aux acteurs du secteur",
+    "subsection": "",
+    "topic": "Source Loi Climat",
+    "page": 34
+  },
+  {
+    "content": "De plus, il est probable que l'ambition des ZFE soit rehaussée dans les années à venir pour tendre vers une interdiction à tous les véhicules hors Crit'Air 0 dans les ZFE (i.e. toutes les motorisations thermiques) afin de garantir la baisse d'émission de particules et des nuisances sonores comme c'est déjà le cas dans certaines métropoles :",
+    "type": "text",
+    "section": "Contexte",
+    "subsection": "",
+    "topic": "Ambition ZFE",
+    "page": 35
+  },
+  {
+    "content": "- La Métropole du Grand Paris s'est engagée à interdire tous les véhicules thermiques d'ici 2030.\n- Au niveau Européen, plusieurs villes ont déjà acté l'interdiction des véhicules à motorisations thermiques comme Oslo en 2025 et Amsterdam en 2030.",
+    "type": "list",
+    "section": "Contexte",
+    "subsection": "",
+    "topic": "Exemples interdictions véhicules thermiques",
+    "page": 35
+  },
+  {
+    "content": "Les feuilles de route françaises, peu cohérentes et pérennes, ne permettent pas de donner un signal clair aux acteurs du secteur sur le rôle prédominant de l'électrique sur ce segment. Certains acteurs de ce secteur ne sont pas convaincus par le développement des camions électriques en raison de ce manque de visibilité et des freins techniques et opérationnels.",
+    "type": "text",
+    "section": "Contexte",
+    "subsection": "",
+    "topic": "Feuilles de route françaises",
+    "page": 35
+  },
+  {
+    "content": "Encourager un renforcement des mesures politiques dans les prochaines années",
+    "type": "text",
+    "section": "Recommandations",
+    "subsection": "Renforcement des mesures politiques",
+    "topic": "Titre de sous-section",
+    "page": 35
+  },
+  {
+    "content": "Normes de performance en matière d'émissions de CO2 pour les poids lourds :\nDepuis la dernière mise à jour de la réglementation européenne, de nombreux constructeurs (Traton (Scania et MAN), Daimler, Volvo Trucks) ont annoncé une ambition de vente d'au moins 50% de camions électriques à l'horizon 2030. D'autre part, de nombreux pays ont également déclaré une fin de ventes des véhicules thermiques à horizon 2035-2040, et l'UE a déclaré l'objectif de neutralité carbone pour 2050, avec une réduction de 55% des émissions de gaz à effet de serre d'ici à 2030. Il est donc nécessaire de revoir dans le cadre du réexamen de la réglementation prévue fin 2022 les objectifs CO2 dans l'objectif à minima de s'aligner avec les ambitions européennes et du marché des constructeurs, voire de les dépasser. Cette révision à la hausse des objectifs pourrait donner un signal long-terme nécessaire pour planifier la transformation de l'industrie tout en s'assurant que le secteur se place sur une trajectoire compatible avec les nouvelles ambitions climatiques européennes (réduction de 55% des émissions de CO2 en 2030, neutralité carbone en 2050). D'autre part, elle facilite le développement d'une offre pérenne et suffisante de camions électriques, et conséquemment participe à la baisse du coût total de possession de la technologie par l'augmentation de la quantité de modèles électriques sur le marché.",
+    "type": "text",
+    "section": "Recommandations",
+    "subsection": "Renforcement des mesures politiques",
+    "topic": "Normes CO2 poids lourds",
+    "page": 35
+  },
+  {
+    "content": "Zones à faibles émissions :\nPour donner le bon signal et garantir un transport logistique décarboné et sain pour les habitants, il convient que les métropoles ainsi que les décideurs nationaux mettent en place une feuille de route pour que toutes les ZFEs des grandes agglomérations autorisent seulement les véhicules Crit'Air 0 à partir de 2030.",
+    "type": "text",
+    "section": "Recommandations",
+    "subsection": "Renforcement des mesures politiques",
+    "topic": "Feuille de route ZFE",
+    "page": 35
+  },
+  {
+    "content": "Cette feuille de route doit prévoir la mise en place de mesures favorables lors de l'usage aux motorisations Crit'Air 0 (aires de stationnement avec bornes de recharge, utilisation des voies de covoiturage, horaires de livraisons étendus, etc.).",
+    "type": "text",
+    "section": "Feuille de Route",
+    "subsection": "",
+    "topic": "Mesures Crit'Air 0",
+    "page": 36
+  },
+  {
+    "content": "Les régulateurs peuvent même aller plus loin pour inciter au déploiement du camion électrique",
+    "type": "text",
+    "section": "Feuille de Route",
+    "subsection": "Rôle des régulateurs",
+    "topic": "Incitation camion électrique",
+    "page": 36
+  },
+  {
+    "content": "Les régulateurs à l'échelle européenne, française et locale peuvent aller plus loin en mettant en place les politiques suivantes afin d'accélérer le passage au camion électrique :",
+    "type": "text",
+    "section": "Feuille de Route",
+    "subsection": "Rôle des régulateurs",
+    "topic": "Politiques d'accélération",
+    "page": 36
+  },
+  {
+    "content": "Faciliter la confiance dans le soutien financier à l'échelle étatique et européenne, avec un processus administratif simplifié et rapide et augmenter la visibilité et la pérennité des aides à l'achat de camions électriques.",
+    "type": "list",
+    "section": "Feuille de Route",
+    "subsection": "Rôle des régulateurs",
+    "topic": "Soutien financier",
+    "page": 36
+  },
+  {
+    "content": "Privilégier les véhicules Crit'Air 0 face au gaz et au biogaz :",
+    "type": "list",
+    "section": "Feuille de Route",
+    "subsection": "Rôle des régulateurs",
+    "topic": "Crit'Air 0 vs gaz/biogaz",
+    "page": 36
+  },
+  {
+    "content": "Mener un plus grand nombre d'expérimentations sur la qualité de l'air pour les véhicules roulant au GNV (gaz naturel fossile ou biométhane) pour détecter le taux de particules fines et ultrafines, et évaluer le gain réel en termes d'émissions de particules par rapport aux véhicules diesel/biodiesel,",
+    "type": "list",
+    "section": "Feuille de Route",
+    "subsection": "Rôle des régulateurs",
+    "topic": "Expérimentations GNV",
+    "page": 36
+  },
+  {
+    "content": "Ne plus subventionner les camions au gaz et les investissements en infrastructures gazières, afin d'inciter l'achat de véhicules électrifiés pour les zones urbaines, moins bruyants et moins émetteurs de particules.",
+    "type": "list",
+    "section": "Feuille de Route",
+    "subsection": "Rôle des régulateurs",
+    "topic": "Fin des subventions gaz",
+    "page": 36
+  },
+  {
+    "content": "Définir une stratégie française de déploiement de bornes de recharge publiques et privées pour les poids lourds. La révision du règlement de l'UE sur les infrastructures pour les carburants alternatifs propose la mise en place obligatoire de points de recharges publiques dans les principales aires urbaines européennes dès 2025. Il convient pour la France de soutenir cet objectif et de l'accompagner d'une feuille de route court terme et crédible qui couvre également la recharge privée. Le règlement de l'UE couvre également les points de recharge.",
+    "type": "list",
+    "section": "Feuille de Route",
+    "subsection": "Rôle des régulateurs",
+    "topic": "Stratégie bornes recharge",
+    "page": 36
+  },
+  {
+    "content": "Le déploiement du camion électrique se heurte à des freins techniques et opérationnels, liés à l'autonomie et la charge utile limitée, ainsi que financiers, le camion électrique demeurant plus cher en TCO, hors aides financières. Enfin, la réglementation actuelle et planifiée, en établissant les mêmes contraintes de circulation dans les ZFEs entre le camion gaz/biogaz/biodiesel et le camion électrique, n'incite pas à adopter ce dernier, plus contraignant opérationnellement, même si son empreinte environnementale est plus faible.",
+    "type": "text",
+    "section": "VI. Conclusion",
+    "subsection": "",
+    "topic": "Freins camion électrique",
+    "page": 38
+  },
+  {
+    "content": "Si ces barrières sont réelles, la majorité de ses freins, notamment l'autonomie et le surcoût, seront levés ou du moins fortement atténués dans les prochaines années avec les nouveaux modèles de camions électriques et le déploiement de bornes de recharge rapide.",
+    "type": "text",
+    "section": "VI. Conclusion",
+    "subsection": "",
+    "topic": "Atténuation des freins",
+    "page": 38
+  },
+  {
+    "content": "De plus, dans ce cas d'étude, Carbone 4 a déterminé que 20 à 40% des camions pour la logistique frigorifique régionale seront électrifiables dès 2023, ce qui permet d'anticiper le renouvellement de la flotte dès aujourd'hui, afin d'atteindre les ambitions climatiques françaises et européennes de 2030 et de maîtriser rapidement les spécificités d'exploitation de cette motorisation. D'autre part, les aides financières permettent d'équilibrer, voire de créer un gain sur le coût TCO en faveur du camion électrique, à l'heure où les coûts d'exploitation énergétiques sont de plus en plus fluctuants.",
+    "type": "text",
+    "section": "VI. Conclusion",
+    "subsection": "",
+    "topic": "Potentiel électrification & aides",
+    "page": 38
+  },
+  {
+    "content": "Cependant, le camion électrique est avant tout un changement de paradigme qui nécessite de repenser son schéma d'exploitation, et il faut accompagner ce changement par des politiques réglementaires encore plus incitatives envers cette motorisation, et en s'assurant que les différentes parties prenantes soient convaincues des avantages environnementaux du camion électrique.",
+    "type": "text",
+    "section": "VI. Conclusion",
+    "subsection": "",
+    "topic": "Changement de paradigme",
+    "page": 38
+  },
+  {
+    "content": "Le coût total de possession comprend les coûts en capital et les coûts d'exploitation pour chaque camion, compte tenu de son achat, de sa consommation de carburant, et de ses besoins en infrastructure de recharge.",
+    "type": "text",
+    "section": "Annexe : Présentation du modèle TCO",
+    "subsection": "",
+    "topic": "Coût total possession",
+    "page": 40
+  },
+  {
+    "content": "Cette modélisation n'a pas comme objectif de représenter de manière exhaustive les différents coûts. Le but de l'exercice étant de comparer le TCO entre le camion diesel et le camion électrique selon plusieurs paramètres. Les postes de dépenses ne variant pas significativement entre ces deux types de véhicules n'ont pas été pris en compte.",
+    "type": "text",
+    "section": "Annexe : Présentation du modèle TCO",
+    "subsection": "",
+    "topic": "Objectif modélisation",
+    "page": 40
+  },
+  {
+    "content": "Paramètres fixes :\n* Durée de possession du véhicule : 8 ans.\n* Nombre de jour de fonctionnement par an : 250 jours.",
+    "type": "list",
+    "section": "Annexe : Présentation du modèle TCO",
+    "subsection": "Paramètres d'entrée du modèle",
+    "topic": "Paramètres fixes",
+    "page": 40
+  },
+  {
+    "content": "Paramètres variables :\n* Le nombre de tournées par jour,\n* La distance parcourue par tournée,\n* Le modèle de camion électrique,\n* Le nombre et la puissance de recharge pour le camion électrique.",
+    "type": "list",
+    "section": "Annexe : Présentation du modèle TCO",
+    "subsection": "Paramètres d'entrée du modèle",
+    "topic": "Paramètres variables",
+    "page": 40
+  },
+  {
+    "content": "Les coûts et hypothèses liés à l'acquisition véhicules sont principalement basés sur les données et échanges avec les constructeurs et transporteurs et l'étude de l'International Council on Clean Transportation (2021) :",
+    "type": "text",
+    "section": "Annexe : Présentation du modèle TCO",
+    "subsection": "Coûts et hypothèses liés au véhicule",
+    "topic": "Sources coûts véhicules",
+    "page": 40
+  },
+  {
+    "content": "| Caractéristique | Diesel | Électrique |\n|---|---|---|\n| Acquisition d'un porteur PTAC 16 tonnes frigorifique hors caisse et groupe froid(1) | 65 000 € | 250 000 € |\n| Acquisition d'une caisse frigorifique mono-température et d'un groupe froid | 70 000 € | |\n| Maintenance | 15 c€ / km | 10,5 c€ / km |\n| Revente camion | 15% | |\n| Revente batterie | | 9% |",
+    "type": "table",
+    "section": "Annexe : Présentation du modèle TCO",
+    "subsection": "Coûts et hypothèses liés au véhicule",
+    "topic": "Coûts comparatifs véhicules",
+    "page": 40
+  },
+  {
+    "content": "(1) Le coût pour l'acquisition d'un porteur électrique correspond au modèle disponible en 2023 avec une batterie d'une capacité d'environ 370 kWh.",
+    "type": "text",
+    "section": "Annexe : Présentation du modèle TCO",
+    "subsection": "Coûts et hypothèses liés au véhicule",
+    "topic": "Coût porteur électrique",
+    "page": 40
+  },
+  {
+    "content": "(2) Les coûts de maintenance incluent les lubrifiants, les vidanges d'huile, les réparations et l'entretien préventif et les pneus. Les coûts de maintenance pour un camion électrique sont environ 30% moins élevés que pour un camion diesel (moins de réparation, pas de filtre anti-pollution pour un camion électrique, pas de vidanges moteur).",
+    "type": "text",
+    "section": "Annexe : Présentation du modèle TCO",
+    "subsection": "Coûts et hypothèses liés au véhicule",
+    "topic": "Coûts maintenance",
+    "page": 40
+  },
+  {
+    "content": "Les coûts du véhicule prennent en compte une période d'utilisation du véhicule de huit ans ainsi que la valeur résiduelle restante du véhicule. Il est considéré que la batterie du véhicule a la même durée de vie que la première vie du camion (garantie constructeur) en considérant un usage normal (en considérant une seule charge maximum par jour). Cependant, lors d'un usage plus intensif du camion avec plus d'une charge par jour, cela",
+    "type": "text",
+    "section": "Annexe : Présentation du modèle TCO",
+    "subsection": "Coûts et hypothèses liés au véhicule",
+    "topic": "Durée vie véhicule/batterie",
+    "page": 40
+  },
+  {
+    "content": "pourrait engendrer un vieillissement plus rapide de la batterie et il pourrait s'avérer nécessaire de changer la batterie avant la fin de la première période d'utilisation du véhicule. Dans ce cas, il est considéré que le coût du changement de batterie inclut le coût du pack de batterie et également le coût du changement de l'ensemble du système électronique associé au moteur électrique.",
+    "type": "text",
+    "section": "Considérations Générales",
+    "subsection": "",
+    "topic": "Vieillissement batterie",
+    "page": 41
+  },
+  {
+    "content": "Les taxes sur véhicule et les coûts des péages sont exclus de l'analyse car la différence entre les deux n'est pas significative. L'assurance du véhicule est également exclue de l'analyse due aux incertitudes sur le coût pour un camion électrique.",
+    "type": "text",
+    "section": "Considérations Générales",
+    "subsection": "",
+    "topic": "Coûts exclus analyse",
+    "page": 41
+  },
+  {
+    "content": "Les coûts et hypothèses liés à l'infrastructures de bornes de recharge sont principalement basés sur les données et échanges avec ENEDIS, des opérateurs de bornes de recharge et l'étude International Council on Clean Transportation (2021) :",
+    "type": "text",
+    "section": "Coûts et hypothèses de l'infrastructure de bornes de recharge",
+    "subsection": "",
+    "topic": "Sources données",
+    "page": 41
+  },
+  {
+    "content": "Tableau des coûts de l'infrastructure de bornes de recharge:\n| Caractéristique | Diesel | Électrique |\n|---|---|---|\n| Coût d'une wallbox (1) (22 ou 44 kW AC) | | 1 000 à 2 000 € |\n| Coût d'une borne de recharge rapide (50 à 150 kW DC) | | 25 000 à 60 000 € selon le modèle et la puissance |\n| Maintenance - infrastructure | 117 | 1 % du CAPEX par an |\n| Coût installation hors raccordement (2) | | 8 000 € |",
+    "type": "table",
+    "section": "Coûts et hypothèses de l'infrastructure de bornes de recharge",
+    "subsection": "",
+    "topic": "Coûts infrastructure recharge",
+    "page": 41
+  },
+  {
+    "content": "(1) Un câble de charge lente pour poids lourds AC (de 20 à 40 kW selon le modèle de camion) est inclus dans le prix d'acquisition du camion électrique, sans engendrer de frais supplémentaires de raccordement ni d'installation. Cependant il est préférable d'utiliser une Wallbox qui est plus robuste que le câble fourni. Cela n'engendre pas de frais supplémentaires d'installation ni de raccordement pour des sites déjà raccordés à une puissance suffisante.",
+    "type": "text",
+    "section": "Coûts et hypothèses de l'infrastructure de bornes de recharge",
+    "subsection": "",
+    "topic": "Détail câble charge",
+    "page": 41
+  },
+  {
+    "content": "(2) Dans ce cas d'étude, les sites logistiques sont équipés d'un transformateur et d'une puissance suffisante pour pouvoir installer un point de charge supplémentaire sans devoir effectuer des travaux de raccordement pour augmenter la puissance sur le site. Le coût d'installation comprend : les coûts de génie civil (les fondations de la borne, les tranchées et l'accès à l'infrastructure) et l'installation (raccordements électriques (y compris protections électriques) et de télécommunication entre les bornes et le point de livraison, la pose de la borne (qui peut nécessiter un engin de levage) et les coûts de paramétrage et de mise en service).",
+    "type": "text",
+    "section": "Coûts et hypothèses de l'infrastructure de bornes de recharge",
+    "subsection": "",
+    "topic": "Détail coûts installation",
+    "page": 41
+  },
+  {
+    "content": "Les coûts et hypothèses liés au carburant sont principalement basés sur les données et échanges avec les transporteurs, les constructeurs et les données ministérielles :",
+    "type": "text",
+    "section": "Coûts et hypothèses liés du carburant",
+    "subsection": "",
+    "topic": "Sources données carburant",
+    "page": 41
+  },
+  {
+    "content": "Tableau des coûts et hypothèses liés au carburant:\n| Caractéristique | Diesel | Électrique |\n|---|---|---|\n| Consommation de carburant pour un porteur PTAC 16 tonnes frigorifique en milieu urbain et péri-urbain (hors consommation pour le groupe froid) | 30 L / 100 km | 110 kWh / 100 km |\n| Consommation de carburant pour le groupe froid(1) | 3 L / 100 km | 10 kWh / 100 km |\n| Pertes liées à la recharge électrique | | 10% / kWh |\n| Coût carburant HTVA(2) | 1,15 € / L pour du diesel | 0,1 € / kWh |\n| Coût GNR HTVA(2) | 1,1 € / L | |",
+    "type": "table",
+    "section": "Coûts et hypothèses liés du carburant",
+    "subsection": "",
+    "topic": "Coûts consommation carburant",
+    "page": 41
+  },
+  {
+    "content": "(1) La consommation de carburant pour alimenter le groupe froid dépend principalement de la durée d'usage et de la durée d'ouverture / du nombre d'ouverture de la caisse. Pour la modélisation, cela a été traduit par km. Il est considéré que le carburant pour le groupe froid pour un camion diesel est du GNR et de l'électricité pour le camion électrique.",
+    "type": "text",
+    "section": "Hypothèses de Modélisation",
+    "subsection": "",
+    "topic": "Consommation carburant groupe froid",
+    "page": 42
+  },
+  {
+    "content": "(2) Les prix des produits pétroliers et de l'électricité sont issus des données du Ministère de la Transition Écologique²¹,²².",
+    "type": "text",
+    "section": "Hypothèses de Modélisation",
+    "subsection": "",
+    "topic": "Sources prix énergies",
+    "page": 42
+  },
+  {
+    "content": "L'évolution des coûts des énergies à horizon 2030 n'est pas prise en compte due à l'incertitude trop importante de ce type d'exercice. Le modèle TCO inclut néanmoins la fin du remboursement de la TICPE à horizon 2030, prévu dans la loi Climat et Résilience.",
+    "type": "text",
+    "section": "Hypothèses de Modélisation",
+    "subsection": "",
+    "topic": "Coûts énergies 2030 et TICPE",
+    "page": 42
+  },
+  {
+    "content": "[\"Ministère de la Transition Écologique, 2021. Les prix des produits pétroliers en 2020 : la crise sanitaire a tiré les prix à la baisse\", \"Ministère de la Transition Écologique, 2021. Prix de l'électricité en France et dans l'Union européenne en 2020\"]",
+    "type": "list",
+    "section": "Références",
+    "subsection": "",
+    "topic": "Détails sources énergies",
+    "page": 42
+  },
+  {
+    "content": "Carbone 4 est le premier cabinet de conseil indépendant spécialisé dans la stratégie bas-carbone et l'adaptation au changement climatique.",
+    "type": "text",
+    "section": "Présentation de l'entreprise",
+    "subsection": "",
+    "topic": "Company Overview",
+    "page": 43
+  },
+  {
+    "content": "En permanence à l'écoute des signaux faibles, nous déployons une vision systémique de la contrainte énergie-climat, et mettons toute notre rigueur et notre créativité en œuvre pour transformer nos clients en leaders du défi climatique.",
+    "type": "text",
+    "section": "Présentation de l'entreprise",
+    "subsection": "",
+    "topic": "Methodology & Mission",
+    "page": 43
+  },
+  {
+    "content": "Contact : contact@carbone4.com",
+    "type": "text",
+    "section": "Présentation de l'entreprise",
+    "subsection": "",
+    "topic": "Contact Details",
+    "page": 43
+  }
+]

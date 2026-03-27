@@ -1,0 +1,15 @@
+version: '3.8'
+
+services:
+  web:
+    build: .
+    container_name: chatway-prototype-web
+    ports:
+      - "5000:5000"
+    env_file:
+      - .env
+    volumes:
+      - ./data.pdf:/app/data.pdf
+      - ./faiss_index:/app/faiss_index
+      - ./chunks.json:/app/chunks.json
+    restart: unless-stopped

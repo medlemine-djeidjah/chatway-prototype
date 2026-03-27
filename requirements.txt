@@ -1,0 +1,7 @@
+Flask
+langchain-google-genai
+langchain-community
+faiss-cpu
+pdf2image
+python-dotenv
+Pillow

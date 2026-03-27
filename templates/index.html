@@ -1,0 +1,476 @@
+<!DOCTYPE html>
+<html data-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ChatWay — Q&R Documentaire</title>
+    <meta name="description" content="Assistant Q&R documentaire propulsé par l'IA. Posez vos questions et obtenez des réponses instantanées.">
+    <link href="https://cdn.jsdelivr.net/npm/daisyui@5" rel="stylesheet" type="text/css" />
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+    <link href="https://cdn.jsdelivr.net/npm/daisyui@5/themes.css" rel="stylesheet" type="text/css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --accent: #6C63FF;
+            --accent-soft: #6C63FF22;
+            --accent-glow: #6C63FF33;
+            --surface-1: #0f0f14;
+            --surface-2: #16161d;
+            --surface-3: #1e1e28;
+            --surface-4: #262633;
+            --text-primary: #e8e6f0;
+            --text-secondary: #9694a8;
+            --text-muted: #5c5a6e;
+            --border: #2a2a3a;
+            --success: #34d399;
+            --user-bubble: linear-gradient(135deg, #6C63FF 0%, #8B7CFF 100%);
+        }
+
+        * {
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+            -webkit-font-smoothing: antialiased;
+        }
+
+        body {
+            background: var(--surface-1);
+            color: var(--text-primary);
+        }
+
+        /* Custom scrollbar */
+        .chat-area { scrollbar-width: thin; scrollbar-color: var(--surface-4) transparent; }
+        .chat-area::-webkit-scrollbar { width: 5px; }
+        .chat-area::-webkit-scrollbar-track { background: transparent; }
+        .chat-area::-webkit-scrollbar-thumb { background: var(--surface-4); border-radius: 10px; }
+        .chat-area::-webkit-scrollbar-thumb:hover { background: var(--text-muted); }
+
+        /* Animations */
+        @keyframes fadeInUp {
+            from { opacity: 0; transform: translateY(16px) scale(0.98); }
+            to   { opacity: 1; transform: translateY(0) scale(1); }
+        }
+        @keyframes fadeInScale {
+            from { opacity: 0; transform: scale(0.92); }
+            to   { opacity: 1; transform: scale(1); }
+        }
+        @keyframes slideDown {
+            from { opacity: 0; transform: translateY(-10px); }
+            to   { opacity: 1; transform: translateY(0); }
+        }
+        @keyframes shimmer {
+            0% { background-position: -200% 0; }
+            100% { background-position: 200% 0; }
+        }
+        @keyframes float {
+            0%, 100% { transform: translateY(0px); }
+            50% { transform: translateY(-4px); }
+        }
+        @keyframes pulseDot {
+            0%, 80%, 100% { opacity: 0.25; transform: scale(0.75); }
+            40% { opacity: 1; transform: scale(1.1); }
+        }
+        @keyframes gradientShift {
+            0% { background-position: 0% 50%; }
+            50% { background-position: 100% 50%; }
+            100% { background-position: 0% 50%; }
+        }
+
+        .msg-enter { animation: fadeInUp 0.4s cubic-bezier(0.16, 1, 0.3, 1); }
+        .chip-enter { animation: fadeInScale 0.3s cubic-bezier(0.16, 1, 0.3, 1) backwards; }
+
+        /* Typing dots */
+        .typing-dot {
+            display: inline-block;
+            width: 7px; height: 7px;
+            border-radius: 50%;
+            background: var(--accent);
+            animation: pulseDot 1.4s infinite;
+        }
+        .typing-dot:nth-child(2) { animation-delay: 0.16s; }
+        .typing-dot:nth-child(3) { animation-delay: 0.32s; }
+
+        /* Header gradient line */
+        .header-gradient {
+            height: 2px;
+            background: linear-gradient(90deg, transparent, var(--accent), transparent);
+            opacity: 0.4;
+        }
+
+        /* Bot avatar */
+        .bot-avatar {
+            width: 36px; height: 36px;
+            border-radius: 12px;
+            background: var(--accent-soft);
+            border: 1px solid var(--accent-glow);
+            display: flex; align-items: center; justify-content: center;
+            flex-shrink: 0;
+        }
+
+        /* Message bubbles */
+        .bubble-bot {
+            background: var(--surface-3);
+            border: 1px solid var(--border);
+            border-radius: 4px 16px 16px 16px;
+            padding: 14px 18px;
+            color: var(--text-primary);
+            font-size: 0.9rem;
+            line-height: 1.65;
+            max-width: 640px;
+        }
+        .bubble-user {
+            background: var(--user-bubble);
+            border-radius: 16px 4px 16px 16px;
+            padding: 14px 18px;
+            color: #fff;
+            font-size: 0.9rem;
+            line-height: 1.65;
+            max-width: 520px;
+            box-shadow: 0 4px 24px rgba(108, 99, 255, 0.2);
+        }
+
+        /* Suggestion chips */
+        .suggestion-chip {
+            background: var(--surface-3);
+            border: 1px solid var(--border);
+            border-radius: 100px;
+            padding: 8px 16px;
+            color: var(--text-secondary);
+            font-size: 0.8rem;
+            font-weight: 450;
+            cursor: pointer;
+            transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+            display: flex; align-items: center; gap: 8px;
+            white-space: nowrap;
+        }
+        .suggestion-chip:hover {
+            background: var(--accent-soft);
+            border-color: var(--accent);
+            color: var(--text-primary);
+            transform: translateY(-2px);
+            box-shadow: 0 4px 16px var(--accent-glow);
+        }
+        .suggestion-chip svg { opacity: 0.5; transition: opacity 0.2s; }
+        .suggestion-chip:hover svg { opacity: 1; color: var(--accent); }
+
+        /* Input area */
+        .input-container {
+            background: var(--surface-2);
+            border: 1px solid var(--border);
+            border-radius: 16px;
+            padding: 6px 6px 6px 20px;
+            display: flex; align-items: center; gap: 8px;
+            transition: border-color 0.3s, box-shadow 0.3s;
+        }
+        .input-container:focus-within {
+            border-color: var(--accent);
+            box-shadow: 0 0 0 3px var(--accent-glow);
+        }
+        .chat-input {
+            background: transparent;
+            border: none;
+            outline: none;
+            flex: 1;
+            color: var(--text-primary);
+            font-size: 0.9rem;
+            padding: 10px 0;
+        }
+        .chat-input::placeholder { color: var(--text-muted); }
+        .send-btn {
+            width: 42px; height: 42px;
+            border-radius: 12px;
+            background: var(--user-bubble);
+            border: none;
+            display: flex; align-items: center; justify-content: center;
+            cursor: pointer;
+            transition: all 0.25s;
+            flex-shrink: 0;
+        }
+        .send-btn:hover { transform: scale(1.08); box-shadow: 0 4px 16px rgba(108, 99, 255, 0.35); }
+        .send-btn:active { transform: scale(0.95); }
+        .send-btn:disabled { opacity: 0.4; cursor: not-allowed; transform: none; box-shadow: none; }
+        .send-btn svg { color: #fff; }
+
+        /* Welcome card */
+        .welcome-card {
+            background: var(--surface-2);
+            border: 1px solid var(--border);
+            border-radius: 20px;
+            padding: 40px;
+            max-width: 560px;
+            text-align: center;
+        }
+        .welcome-icon {
+            width: 64px; height: 64px;
+            border-radius: 20px;
+            background: var(--accent-soft);
+            border: 1px solid var(--accent-glow);
+            display: flex; align-items: center; justify-content: center;
+            margin: 0 auto 20px;
+            animation: float 3s ease-in-out infinite;
+        }
+
+        /* Markdown in bot messages */
+        .bubble-bot strong { color: #fff; font-weight: 600; }
+        .bubble-bot code {
+            font-family: 'JetBrains Mono', monospace;
+            background: var(--surface-4);
+            padding: 2px 6px;
+            border-radius: 4px;
+            font-size: 0.82em;
+        }
+    </style>
+</head>
+<body class="h-screen flex flex-col overflow-hidden" style="background: var(--surface-1);">
+
+    <!-- Header -->
+    <header style="background: var(--surface-2); border-bottom: 1px solid var(--border);" class="sticky top-0 z-50">
+        <div class="flex items-center justify-between px-5 py-3">
+            <div class="flex items-center gap-3">
+                <div class="bot-avatar">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="var(--accent)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                        <path d="M12 2a4 4 0 0 1 4 4v2H8V6a4 4 0 0 1 4-4z"/>
+                        <rect x="3" y="8" width="18" height="12" rx="3"/>
+                        <circle cx="9" cy="14" r="1.5" fill="var(--accent)"/>
+                        <circle cx="15" cy="14" r="1.5" fill="var(--accent)"/>
+                    </svg>
+                </div>
+                <div>
+                    <h1 style="font-size: 1rem; font-weight: 650; letter-spacing: -0.02em; color: var(--text-primary);">ChatWay</h1>
+                    <p style="font-size: 0.72rem; color: var(--text-muted); margin-top: 1px;">Intelligence Documentaire</p>
+                </div>
+            </div>
+            <div class="flex items-center gap-2" style="font-size: 0.75rem; color: var(--text-muted);">
+                <span style="width: 7px; height: 7px; border-radius: 50%; background: var(--success); display: inline-block; box-shadow: 0 0 8px var(--success);"></span>
+                Prêt
+            </div>
+        </div>
+        <div class="header-gradient"></div>
+    </header>
+
+    <!-- Chat Area -->
+    <main class="flex-1 overflow-y-auto chat-area" id="chatArea">
+        <div class="max-w-3xl mx-auto px-4 py-8" id="chatMessages">
+
+            <!-- Welcome Card -->
+            <div class="flex justify-center mb-6 msg-enter" id="welcomeCard">
+                <div class="welcome-card">
+                    <div class="welcome-icon">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="var(--accent)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+                            <path d="M14.5 2H6a2 2 0 00-2 2v16a2 2 0 002 2h12a2 2 0 002-2V7.5L14.5 2z"/>
+                            <polyline points="14 2 14 8 20 8"/>
+                            <path d="M8 13h2"/>
+                            <path d="M8 17h2"/>
+                            <path d="M14 13h2"/>
+                            <path d="M14 17h2"/>
+                        </svg>
+                    </div>
+                    <h2 style="font-size: 1.25rem; font-weight: 650; color: var(--text-primary); margin-bottom: 8px;">
+                        Posez toutes vos questions au document
+                    </h2>
+                    <p style="font-size: 0.85rem; color: var(--text-secondary); line-height: 1.6; margin-bottom: 24px;">
+                        Je peux vous aider à trouver des informations, extraire des données de graphiques, et répondre à vos questions sur le document chargé.
+                    </p>
+
+                    <!-- Suggestion Chips -->
+                    <div id="suggestionsContainer" class="flex flex-wrap justify-center gap-2">
+                        <button class="suggestion-chip chip-enter" style="animation-delay: 0.1s"
+                                data-question="Quelle est l'autonomie maximale d'un camion électrique de 16 tonnes en 2022 dans le cas d'étude ?">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M13 10V3L4 14h7v7l9-11h-7z"/></svg>
+                            Autonomie camion 16T
+                        </button>
+                        <button class="suggestion-chip chip-enter" style="animation-delay: 0.15s"
+                                data-question="Quel est le coût de maintenance par kilomètre d'un camion électrique par rapport à un camion diesel, selon le modèle TCO présenté dans l'étude ?">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><path d="M12 6v6l4 2"/></svg>
+                            Coût maintenance TCO
+                        </button>
+                        <button class="suggestion-chip chip-enter" style="animation-delay: 0.2s"
+                                data-question="En combinant le dispositif de suramortissement et le bonus écologique, quel est l'écart de TCO entre un camion électrique et un camion diesel ?">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 3v18h18"/><path d="M18 17V9"/><path d="M13 17V5"/><path d="M8 17v-3"/></svg>
+                            Écart TCO avec aides
+                        </button>
+                        <button class="suggestion-chip chip-enter" style="animation-delay: 0.25s"
+                                data-question="Quelles sont les émissions de CO2 du puits à la roue d'un camion électrique par rapport à un camion diesel ?">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><path d="M2 12h20"/><path d="M12 2a15.3 15.3 0 014 10 15.3 15.3 0 01-4 10 15.3 15.3 0 01-4-10 15.3 15.3 0 014-10z"/></svg>
+                            CO₂ diesel vs électrique
+                        </button>
+                        <button class="suggestion-chip chip-enter" style="animation-delay: 0.3s"
+                                data-question="Quels sont les trois principaux freins au déploiement du camion électrique identifiés dans l'étude, et quelles solutions sont recommandées pour chacun d'entre eux ?">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M9 11l3 3L22 4"/><path d="M21 12v7a2 2 0 01-2 2H5a2 2 0 01-2-2V5a2 2 0 012-2h11"/></svg>
+                            Freins et solutions
+                        </button>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </main>
+
+    <!-- Input Area -->
+    <footer style="background: var(--surface-2); border-top: 1px solid var(--border);" class="sticky bottom-0 z-50">
+        <div class="max-w-3xl mx-auto px-4 py-4">
+            <form id="chatForm">
+                <div class="input-container">
+                    <input
+                        type="text"
+                        id="questionInput"
+                        class="chat-input"
+                        placeholder="Posez une question sur le document..."
+                        autocomplete="off"
+                        required
+                    />
+                    <button type="submit" id="sendBtn" class="send-btn">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+                            <path d="M5 12h14"/>
+                            <path d="M12 5l7 7-7 7"/>
+                        </svg>
+                    </button>
+                </div>
+            </form>
+            <p style="text-align: center; font-size: 0.68rem; color: var(--text-muted); margin-top: 8px;">
+                Les réponses sont générées par l'IA à partir du document. Vérifiez toujours les informations importantes.
+            </p>
+        </div>
+    </footer>
+
+    <script>
+        const chatArea = document.getElementById('chatArea');
+        const chatMessages = document.getElementById('chatMessages');
+        const chatForm = document.getElementById('chatForm');
+        const questionInput = document.getElementById('questionInput');
+        const sendBtn = document.getElementById('sendBtn');
+        const welcomeCard = document.getElementById('welcomeCard');
+        const suggestionsContainer = document.getElementById('suggestionsContainer');
+
+        const BOT_AVATAR = `<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="var(--accent)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M12 2a4 4 0 0 1 4 4v2H8V6a4 4 0 0 1 4-4z"/>
+            <rect x="3" y="8" width="18" height="12" rx="3"/>
+            <circle cx="9" cy="14" r="1.5" fill="var(--accent)"/>
+            <circle cx="15" cy="14" r="1.5" fill="var(--accent)"/>
+        </svg>`;
+
+        function scrollToBottom() {
+            chatArea.scrollTo({ top: chatArea.scrollHeight, behavior: 'smooth' });
+        }
+
+        function hideWelcome() {
+            if (welcomeCard) {
+                welcomeCard.style.transition = 'opacity 0.35s, transform 0.35s';
+                welcomeCard.style.opacity = '0';
+                welcomeCard.style.transform = 'scale(0.96)';
+                setTimeout(() => welcomeCard.remove(), 350);
+            }
+        }
+
+        function addMessage(content, isUser) {
+            const row = document.createElement('div');
+            row.className = 'msg-enter';
+            row.style.cssText = `display: flex; gap: 12px; margin-bottom: 20px; ${isUser ? 'justify-content: flex-end;' : ''}`;
+
+            if (isUser) {
+                row.innerHTML = `<div class="bubble-user">${content}</div>`;
+            } else {
+                row.innerHTML = `
+                    <div class="bot-avatar" style="margin-top: 2px;">${BOT_AVATAR}</div>
+                    <div class="bubble-bot">${content}</div>
+                `;
+            }
+
+            chatMessages.appendChild(row);
+            scrollToBottom();
+            return row;
+        }
+
+        function addTypingIndicator() {
+            const row = document.createElement('div');
+            row.id = 'typingIndicator';
+            row.className = 'msg-enter';
+            row.style.cssText = 'display: flex; gap: 12px; margin-bottom: 20px;';
+            row.innerHTML = `
+                <div class="bot-avatar" style="margin-top: 2px;">${BOT_AVATAR}</div>
+                <div class="bubble-bot" style="display: flex; align-items: center; gap: 5px; padding: 16px 22px;">
+                    <span class="typing-dot"></span>
+                    <span class="typing-dot"></span>
+                    <span class="typing-dot"></span>
+                </div>
+            `;
+            chatMessages.appendChild(row);
+            scrollToBottom();
+        }
+
+        function removeTypingIndicator() {
+            const el = document.getElementById('typingIndicator');
+            if (el) el.remove();
+        }
+
+        function escapeHtml(text) {
+            const div = document.createElement('div');
+            div.textContent = text;
+            return div.innerHTML;
+        }
+
+        function formatAnswer(raw) {
+            return escapeHtml(raw)
+                .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
+                .replace(/`([^`]+)`/g, '<code>$1</code>')
+                .replace(/\n\n/g, '</p><p style="margin-top:10px;">')
+                .replace(/\n- /g, '<br>• ')
+                .replace(/\n\* /g, '<br>• ')
+                .replace(/\n/g, '<br>');
+        }
+
+        async function askQuestion(question) {
+            hideWelcome();
+
+            addMessage(escapeHtml(question), true);
+            questionInput.value = '';
+            sendBtn.disabled = true;
+            questionInput.disabled = true;
+
+            addTypingIndicator();
+
+            try {
+                const res = await fetch('/ask', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ question }),
+                });
+
+                removeTypingIndicator();
+
+                if (!res.ok) {
+                    const err = await res.json();
+                    addMessage(`⚠️ ${err.error || "Une erreur s'est produite"}`, false);
+                    return;
+                }
+
+                const data = await res.json();
+                addMessage(formatAnswer(data.answer), false);
+            } catch (err) {
+                removeTypingIndicator();
+                addMessage('⚠️ Impossible de joindre le serveur. Est-il en cours d\\'exécution ?', false);
+            } finally {
+                sendBtn.disabled = false;
+                questionInput.disabled = false;
+                questionInput.focus();
+            }
+        }
+
+        chatForm.addEventListener('submit', async (e) => {
+            e.preventDefault();
+            const question = questionInput.value.trim();
+            if (!question) return;
+            await askQuestion(question);
+        });
+
+        document.querySelectorAll('.suggestion-chip').forEach(chip => {
+            chip.addEventListener('click', () => {
+                const question = chip.dataset.question;
+                if (question) askQuestion(question);
+            });
+        });
+
+        questionInput.focus();
+    </script>
+</body>
+</html>
