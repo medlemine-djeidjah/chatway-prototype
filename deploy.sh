@@ -17,8 +17,8 @@ fi
 
 # 3. Pull latest changes & spin up docker containers
 echo "📦 Building and deploying with Docker Compose..."
-docker-compose up --build -d
+docker compose up --build -d
 
 echo ""
 echo "✅ Deployment successful! Your chat app is now securely running on http://localhost:5000"
-echo "👉 To view real-time logs, execute: docker-compose logs -f"
+echo "👉 To view real-time logs, execute: docker compose logs -f"
