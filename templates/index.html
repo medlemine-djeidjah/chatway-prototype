@@ -440,7 +440,8 @@
 
                 if (!res.ok) {
                     const err = await res.json();
-                    addMessage(`⚠️ ${err.error || "Une erreur s'est produite"}`, false);
+                    const errMsg = err.error || "Une erreur s'est produite";
+                    addMessage("⚠️ " + errMsg, false);
                     return;
                 }
 
@@ -448,7 +449,7 @@
                 addMessage(formatAnswer(data.answer), false);
             } catch (err) {
                 removeTypingIndicator();
-                addMessage('⚠️ Impossible de joindre le serveur. Est-il en cours d\\'exécution ?', false);
+                addMessage("⚠️ Impossible de joindre le serveur.", false);
             } finally {
                 sendBtn.disabled = false;
                 questionInput.disabled = false;
