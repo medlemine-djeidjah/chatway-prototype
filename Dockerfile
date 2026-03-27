@@ -16,8 +16,11 @@ RUN pip install --no-cache-dir -r requirements.txt
 # Copy the rest of the application codebase
 COPY . .
 
+# Environment: production mode
+ENV FLASK_ENV=production
+
 # Expose the Flask Port
 EXPOSE 5000
 
-# Execute the Flask application
-CMD ["python", "app.py"]
+# Run with Gunicorn (production WSGI server — NOT Flask's dev server)
+CMD ["gunicorn", "--bind", "0.0.0.0:5000", "--workers", "2", "--timeout", "120", "app:app"]

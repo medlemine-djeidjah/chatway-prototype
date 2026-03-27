@@ -1,4 +1,5 @@
 Flask
+gunicorn
 langchain-google-genai
 langchain-community
 faiss-cpu
