@@ -10,7 +10,7 @@
   <p>Un système de <b>RAG Multimodal</b> (Retrieval-Augmented Generation) pour interroger intelligemment des documents non-sélectionnables (PDFs scannés, graphiques, tableaux).</p>
 
   <p>
-    <a href="https://votre-lien-demo.com"><b>🚀 Tenter la Démo en Ligne</b></a> • 
+    <a href="http://72.61.111.190:5000/"><b>🚀 Tenter la Démo en Ligne</b></a> • 
     <a href="https://medlemine-djeidjah.github.io/"><b>💼 Visiter mon Portfolio</b></a>
   </p>
 </div>
