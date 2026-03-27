@@ -1,0 +1,6 @@
+# Environment variables (contains sensitive API keys)
+.env
+
+# Python cache files
+__pycache__/
+*.pyc
